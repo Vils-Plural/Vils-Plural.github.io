@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Pool of Research
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.
