@@ -1560,7 +1560,7 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag<cycle> incinerators",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2434,7 +2434,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story\n!group reprint",
+            "notes": "!tag reprint\n!tag story",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2480,7 +2480,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "!tag reprint\n!group reprint",
+            "notes": "!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2710,7 +2710,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story\n!group reprint",
+            "notes": "!tag reprint\n!tag story",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2733,7 +2733,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "!tag reprint\n!tag boardwipe\n!tag story\n!group reprint",
+            "notes": "!tag reprint\n!tag boardwipe\n!tag story",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2756,7 +2756,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story\n!group reprint",
+            "notes": "!tag reprint\n!tag story",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2779,7 +2779,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": "!tag reprint\n!group reprint",
+            "notes": "!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2825,7 +2825,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "!tag reprint\n!group reprint",
+            "notes": "!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2848,7 +2848,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag reprint\n!group reprint",
+            "notes": "!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2894,7 +2894,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "!tag reprint\n!group reprint",
+            "notes": "!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2917,7 +2917,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "!tag reprint\n!tag boardwipe\n!tag story\n!group reprint",
+            "notes": "!tag reprint\n!tag boardwipe\n!tag story",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2940,7 +2940,7 @@
             "alias": "",
             "position": "127",
             "rotated": false,
-            "notes": "!tag reprint\n!tag eoe\n!group reprint",
+            "notes": "!tag reprint\n!tag eoe",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2963,7 +2963,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "!tokens Soldier<1>\n!tag reprint\n!tag story\n!group reprint",
+            "notes": "!tokens Soldier<1>\n!tag reprint\n!tag story",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2986,7 +2986,7 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": "!tag story\n!tag reprint\n!group reprint",
+            "notes": "!tag story\n!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3009,7 +3009,7 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": "!tag reprint\n!group reprint",
+            "notes": "!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3032,7 +3032,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "!tag reprint\n!group reprint",
+            "notes": "!tag reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3136,7 +3136,7 @@
             "number": 8,
             "color_identity": "R",
             "cost": "{6}",
-            "rules_text": "When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.\nWarp {R}{R} [i](You may cast this card from your hand for {R}{R}. Exile this creature at the beginning of the next end step. You may cast it from exile on a later turn.)[/i]",
+            "rules_text": "When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.\nWarp {R}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",

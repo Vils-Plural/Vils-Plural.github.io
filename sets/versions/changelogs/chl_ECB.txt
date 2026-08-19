@@ -1,4 +1,47 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Crucible Blaze
+
+Comforting Counsel
+
+Pyroclasm
+
+Negate
+
+Day of Judgment
+
+Essence Scatter
+
+Banishing Light
+
+Burst Lightning
+
+Inscription of Abundance
+
+Foolish Fate
+
+Extinguish All Hope
+
+Cryogen Relic
+
+Dawn of Hope
+
+Stargaze
+
+Full Throttle
+
+Ecological Appreciation
+
+Incendiary Passion Burns Gold
+rules_text: When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for {R}{R}. Exile this creature at the beginning of the next end step. You may cast it from exile on a later turn.)[/i] => When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
