@@ -1,4 +1,44 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Forest's Love Research
+
+Medicine Research
+
+Outwalker Research
+
+Avatar
+
+Forefront Research
+
+Pulse Research
+
+Carver Research
+
+Bodyguard Research
+
+Outlands Research
+
+Disturbance Research
+
+Illusion
+
+Angel
+
+Najmat
+
+Manifestation
+
+Unending Research
+
+Rot Research
+
+Soldier
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Deepdive Outwalker added.

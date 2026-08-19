@@ -1538,7 +1538,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Visions of Tenfold Spires",
@@ -1874,7 +1874,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Medicine Research",
@@ -1895,7 +1895,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Outwalker Research",
@@ -1916,7 +1916,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Avatar",
@@ -1937,7 +1937,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Forefront Research",
@@ -1958,7 +1958,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Pulse Research",
@@ -1979,7 +1979,7 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Carver Research",
@@ -2000,7 +2000,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Bodyguard Research",
@@ -2021,7 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Outlands Research",
@@ -2042,7 +2042,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Disturbance Research",
@@ -2063,7 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Pool of Research",
@@ -2168,7 +2168,7 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Beyond Home",
@@ -2462,7 +2462,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Negate",
@@ -2798,7 +2798,7 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Fleeting Starlight Calls Love",
@@ -2924,7 +2924,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Tapping Glass Holds No Joy",
@@ -3008,7 +3008,7 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Rot Research",
@@ -3029,7 +3029,7 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         },
         {
             "card_name": "Soldier",
@@ -3050,7 +3050,7 @@
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": ""
+            "notes": "!group tokens"
         }
     ]
 }
