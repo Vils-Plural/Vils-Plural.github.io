@@ -2231,7 +2231,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story"
+            "notes": "!tag reprint\n!tag story\n!group reprint"
         },
         {
             "card_name": "Disaster Stabilization",
@@ -2273,7 +2273,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "!tag reprint"
+            "notes": "!tag reprint\n!group reprint"
         },
         {
             "card_name": "Perissine, Forlorn Figment",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story"
+            "notes": "!tag reprint\n!tag story\n!group reprint"
         },
         {
             "card_name": "Day of Judgment",
@@ -2504,7 +2504,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "!tag reprint\n!tag boardwipe\n!tag story"
+            "notes": "!tag reprint\n!tag boardwipe\n!tag story\n!group reprint"
         },
         {
             "card_name": "Essence Scatter",
@@ -2525,7 +2525,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story"
+            "notes": "!tag reprint\n!tag story\n!group reprint"
         },
         {
             "card_name": "Banishing Light",
@@ -2546,7 +2546,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": "!tag reprint"
+            "notes": "!tag reprint\n!group reprint"
         },
         {
             "card_name": "Decrepit Wings Find No Rest",
@@ -2588,7 +2588,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "!tag reprint"
+            "notes": "!tag reprint\n!group reprint"
         },
         {
             "card_name": "Inscription of Abundance",
@@ -2609,7 +2609,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag reprint"
+            "notes": "!tag reprint\n!group reprint"
         },
         {
             "card_name": "A New Beginning",
@@ -2651,7 +2651,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "!tag reprint"
+            "notes": "!tag reprint\n!group reprint"
         },
         {
             "card_name": "Extinguish All Hope",
@@ -2672,7 +2672,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "!tag reprint\n!tag boardwipe\n!tag story"
+            "notes": "!tag reprint\n!tag boardwipe\n!tag story\n!group reprint"
         },
         {
             "card_name": "Cryogen Relic",
@@ -2693,7 +2693,7 @@
             "alias": "",
             "position": "127",
             "rotated": false,
-            "notes": "!tag reprint\n!tag eoe"
+            "notes": "!tag reprint\n!tag eoe\n!group reprint"
         },
         {
             "card_name": "Dawn of Hope",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "!tokens Soldier<1>\n!tag reprint\n!tag story"
+            "notes": "!tokens Soldier<1>\n!tag reprint\n!tag story\n!group reprint"
         },
         {
             "card_name": "Stargaze",
@@ -2735,7 +2735,7 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": "!tag story\n!tag reprint"
+            "notes": "!tag story\n!tag reprint\n!group reprint"
         },
         {
             "card_name": "Full Throttle",
@@ -2756,7 +2756,7 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": "!tag reprint"
+            "notes": "!tag reprint\n!group reprint"
         },
         {
             "card_name": "Ecological Appreciation",
@@ -2777,7 +2777,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "!tag reprint"
+            "notes": "!tag reprint\n!group reprint"
         },
         {
             "card_name": "Najmat",

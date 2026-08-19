@@ -1,4 +1,40 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Comforting Counsel
+
+Pyroclasm
+
+Negate
+
+Day of Judgment
+
+Essence Scatter
+
+Banishing Light
+
+Burst Lightning
+
+Inscription of Abundance
+
+Foolish Fate
+
+Extinguish All Hope
+
+Cryogen Relic
+
+Dawn of Hope
+
+Stargaze
+
+Full Throttle
+
+Ecological Appreciation
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

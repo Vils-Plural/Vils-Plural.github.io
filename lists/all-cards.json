@@ -2434,7 +2434,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story",
+            "notes": "!tag reprint\n!tag story\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2480,7 +2480,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "!tag reprint",
+            "notes": "!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2710,7 +2710,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story",
+            "notes": "!tag reprint\n!tag story\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2733,7 +2733,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "!tag reprint\n!tag boardwipe\n!tag story",
+            "notes": "!tag reprint\n!tag boardwipe\n!tag story\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2756,7 +2756,7 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": "!tag reprint\n!tag story",
+            "notes": "!tag reprint\n!tag story\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2779,7 +2779,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": "!tag reprint",
+            "notes": "!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2825,7 +2825,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "!tag reprint",
+            "notes": "!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2848,7 +2848,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!tag reprint",
+            "notes": "!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2894,7 +2894,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "!tag reprint",
+            "notes": "!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2917,7 +2917,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "!tag reprint\n!tag boardwipe\n!tag story",
+            "notes": "!tag reprint\n!tag boardwipe\n!tag story\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2940,7 +2940,7 @@
             "alias": "",
             "position": "127",
             "rotated": false,
-            "notes": "!tag reprint\n!tag eoe",
+            "notes": "!tag reprint\n!tag eoe\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2963,7 +2963,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "!tokens Soldier<1>\n!tag reprint\n!tag story",
+            "notes": "!tokens Soldier<1>\n!tag reprint\n!tag story\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2986,7 +2986,7 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": "!tag story\n!tag reprint",
+            "notes": "!tag story\n!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3009,7 +3009,7 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": "!tag reprint",
+            "notes": "!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3032,7 +3032,7 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": "!tag reprint",
+            "notes": "!tag reprint\n!group reprint",
             "image_type": "png",
             "v_mana": ""
         },
