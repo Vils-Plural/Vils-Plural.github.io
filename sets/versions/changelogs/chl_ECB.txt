@@ -1,4 +1,390 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Deepdive Outwalker added.
+Adorned Infiltrator added.
+Outwalker Antiquarian added.
+Hermit Emissary added.
+Hours to Oblivion added.
+Experimental Smasher added.
+Unlikely Souls Know Rest added.
+Replication Inquisition added.
+Redline Disruptor added.
+Adorned Deathknell added.
+Nerixim, Cursed Stranger added.
+Fresh Sprawl Gives Life added.
+Burn from Within added.
+El Ior, Planar Whisperer added.
+Mechanized Origin added.
+So Close Yet So Far added.
+Engine Room added.
+Forest's Love Research added.
+Medicine Research added.
+Outwalker Research added.
+Forefront Research added.
+Pulse Research added.
+Carver Research added.
+Bodyguard Research added.
+Outlands Research added.
+Disturbance Research added.
+Sudden Rot Begets Wisdom added.
+Notions of Unending Threat added.
+Illusion added.
+One's Mind Holds Breath added.
+Pyroclasm added.
+Perissine, Forlorn Figment added.
+Laboratory Overseer added.
+Channel the Lightless Sun added.
+Voidtwisted Forgiven added.
+Heartland Recidivist added.
+Gazes Back added.
+VERITY, Collapse Observer added.
+Negate added.
+Day of Judgment added.
+Essence Scatter added.
+Banishing Light added.
+Decrepit Wings Find No Rest added.
+Burst Lightning added.
+Inscription of Abundance added.
+A New Beginning added.
+Foolish Fate added.
+Extinguish All Hope added.
+Cryogen Relic added.
+Dawn of Hope added.
+Stargaze added.
+Full Throttle added.
+Ecological Appreciation added.
+Najmat added.
+Fleeting Starlight Calls Love added.
+Moments Before Skycrash added.
+Planeshard Shot added.
+Incendiary Passion Burns Gold added.
+Kind Souls Witness Strife added.
+Manifestation added.
+Tapping Glass Holds No Joy added.
+Form of a Newborn Star added.
+Rise From the Void added.
+Unending Research added.
+Rot Research added.
+Soldier added.
+
+Deepdive Inquisitor removed.
+First Connection removed.
+Inquisitor Antiquarian removed.
+UU01 removed.
+BR removed.
+RG removed.
+GW removed.
+BG removed.
+WB removed.
+Adorned Inquisitor removed.
+WM03 removed.
+Nerixim, Stranded Oddity removed.
+New Worlds Seek You removed.
+UC06 removed.
+El Ior removed.
+RC06 removed.
+WM04 removed.
+WM05 removed.
+a removed.
+Spotless Storage removed.
+Forest's Love Finds Root removed.
+To Teach Medicine removed.
+Inquisitor Antiquarian removed.
+Forefront Inquisitive removed.
+Gift of a Pulse removed.
+Information Carver removed.
+Research Bodyguard removed.
+Outlands Investigator removed.
+Planned Disturbance removed.
+BG removed.
+BR removed.
+Avatar removed.
+GU removed.
+WB removed.
+GW removed.
+RW removed.
+UB removed.
+RG removed.
+
+Forefront Inquisitive
+rules_text: Vigilance
+{U}, Exile this card from your graveyard: Add “Draw a card, then discard a card.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i] => Vigilance
+Whenever this creature attacks, add “Draw a card, then discard a card.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Knowledge Emissary
+rules_text: First strike, vigilance, lifelink
+When this creature enters, if {C}{C} was spent to cast it, creatures you control get +1/+1 until end of turn. => First strike, vigilance
+When this creature enters, if {C}{C} was spent to cast it, draw a card.
+
+Research Bodyguard
+rules_text: When this creature enters, each opponent loses 2 life and you gain 2 life.
+Whenever another creature dies, add “Each opponent loses 2 life and you gain 2 life.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i] => When this creature enters or dies, each opponent loses 2 life and you gain 2 life.
+Whenever another creature dies, add “Each opponent loses 2 life and you gain 2 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Gift of a Pulse
+rules_text: When this enchantment enters, draw two cards and you lose 2 life. Add “Up to one Manifestation you control becomes a creature in addition to its other types.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i] => When this enchantment enters, draw two cards and you lose 2 life. Add “Up to one Manifestation you control becomes an enchantment creature.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Final Altar For Dreaming
+cost: {1}{C} => {C}{C}
+rules_text: Enchant creature
+When this Aura enters, tap enchanted creature.
+At the beginning of each upkeep, put a stun counter on enchanted creature unless its owner pays {1}. => Flash
+Enchant creature
+Whenever enchanted creature deals combat damage, sacrifice this Aura. When you do, prevent that damage.
+
+Cosmic Metamorphosis
+
+Anomalous Insight
+rules_text: Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom library in any order.
+[i]Beyond[/i] — If you control three or more enchantments, draw a card. => Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom library in any order.
+[i]Beyond[/i] — If you control three or more enchantments, draw a card.
+
+Redshift
+cost: {C}{C}{R} => {C}{R}
+rules_text: Redshift deals 4 damage divided among one or two targets. => Redshift deals 3 damage divided among one or two targets.
+
+Notions of Malevolence
+
+Forest's Love Finds Root
+rules_text: Target creature gains hexproof, trample, and reach until end of turn.
+Add “Up to one creature you control gains indestructible and trample until end of turn.” to your next pool of research [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i] => Target creature gains hexproof, trample, and reach until end of turn.
+Add “Up to one creature you control gains indestructible and trample until end of turn.” to your next pool of research [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Expansion Emissary
+rules_text: Trample, ward {2}
+Whenever this creature deals combat damage to a player, you may cast a copy of your pool of research without paying its mana cost. Copy it. You may choose new targets for the copy. => Trample, ward {2}
+Whenever this creature deals combat damage to a player, you may cast a copy of your pool of research without paying its mana cost. Copy it. You may choose new targets for the copy. [i](The copy also has the original's effects.)[/i]
+
+Outlands Investigator
+rules_text: Vigilance
+When this creature enters, add “Search your library for a land card, put it onto the battlefield tapped, then shuffle.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i] => Vigilance
+When this creature enters, add “Search your library for a land card, put it onto the battlefield tapped, then shuffle.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Planned Disturbance
+rules_text: Look at the top three cards of your library. Put one into your hand and the rest on the bottom of your library in a random order.
+Add “This spell can't be countered.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i] => Scry 2. For each card put on the bottom of your library this way, you gain 1 life.
+Draw a card.
+Add “Scry 2, then draw a card.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Restless Souls Know Peace
+
+Captured Paradox
+cost: {2}{G}{U} => {G}{U}
+rules_text: Whenever you cast a spell, if {C}{C} was spent to cast it, put a +1/+1 counter on this Manifestation and draw a card.
+At the beginning of combat during your turn, if this Manifestation has five or more +1/+1 counters on it and isn't a creature, this Manifestation becomes a creature in addition to its other types. => Whenever you cast a spell, if {C}{C} was spent to cast it, put a +1/+1 counter on this Manifestation and draw a card.
+At the beginning of combat during your turn, if this Manifestation has five or more +1/+1 counters on it and isn't a creature, it becomes an enchantment creature.
+
+Short Deaths May Find You
+rules_text: Enchant creature
+Enchanted creature is a colorless Manifestation enchantment with “{1}: This Manifestation becomes a creature in addition to its other types until end of turn.” [i](It loses all other types.)[/i] => Enchant creature
+Enchanted creature is a colorless Manifestation enchantment with “{1}: This Manifestation becomes an enchantment creature until end of turn.” [i](It loses all other types.)[/i]
+
+NIL, Fused Director
+type: Legendary Creature — Avatar Scientist => Legendary Creature — Avatar Najmat
+
+Dark Fronds Foster Mystery
+rules_text: Whenever you tap a land for mana, you may add {C}. This ability triggers only once each turn.
+At the beginning of combat during your turn, if you spent six or more mana to cast spells this turn, this Manifestation becomes a creature in addition to its other types. => Whenever you tap a land for mana, you may add {C}. This ability triggers only once each turn.
+At the beginning of combat during your turn, if you spent six or more mana to cast spells this turn and this Manifestation isn't a creature, it becomes an enchantment creature.
+pt: 3/2 => 5/4
+
+Elnyreth Loves You
+rules_text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}{W}{U}{B}{R}{G}, Exile this card from your graveyard: You gain 10 life. Each opponent loses 5 life. => Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}, Exile this card from your graveyard: You gain 10 life. Each opponent's life total becomes 5.
+
+Doctor Aeon
+
+Beacons of the Unknown
+
+The Heart of Elnyreth
+
+Everything and Nothing
+
+Incomprehensible Gift
+
+Insects Eat Spiders
+cost: {1}{C}{C}{C} => {C}{C}
+rules_text: [i]Infusion[/i] — When this creature enters, scry 2. Then if you've gained life this turn, draw a card. => This creature gets +4/+0 as long as it isn't attacking or blocking.
+pt: 4/4 => 1/3
+
+Leafless Boughs Grant Shade
+cost: {3} => {C}{C}
+rules_text: Creatures, spells you control, and cards in your graveyard have hexproof during your turn.
+{C}{C}{C}, Exile this enchantment: Put a permanent with mana value 3 or less from your hand onto the battlefield tapped. => When this enchantment enters, draw a card.
+Creatures you control have hexproof during your turn.
+The first spell you cast during your turn can't be countered.
+
+Lone Souls Wish Best
+cost: {2} => {C}{C}
+rules_text: [i]Beyond[/i] — When this creature enters, if you control three or more enchantments, target enchantment becomes a creature and gains haste until end of turn. If it isn't a Manifestation, it's a creature with power and toughness equal to its mana value. => When this creature enters, target Manifestation you control becomes an enchantment creature and gains haste until end of turn.
+
+Spring Blooms in Winter Snow
+rules_text: Whenever this Manifestation enters or attacks, add two mana of any one color. Until end of turn, you don't lose this mana as steps and phases end.
+{3}{C}{C}{C}: If this Manifestation isn't a creature, it becomes a creature in addition to its other types. Activate only as a sorcery. => Whenever this Manifestation enters or attacks, add two mana in any combination of colors. Until end of turn, you don't lose this mana as steps and phases end.
+{C}{C}{C}: If this Manifestation isn't a creature, it becomes an enchantment creature. Activate only as a sorcery.
+
+Repurpose Nothing
+cost: {C}{C} => {C}{C}{C}
+rules_text: Exile target creature. Its controller creates a 2/2 colorless Manifestation enchantment token with “{3}: This token becomes a creature.” => Exile target creature. Its controller creates a 2/2 colorless Manifestation enchantment token with “{3}: This token becomes an enchantment creature.”
+
+Loud Twins Cannot Speak
+
+Conflict Brings Peace
+
+Beauty Holds Divine Right
+rules_text: When this Manifestation enters, scry 1. You gain 1 life.
+{C}{C}{C}: Draw a card. This Manifestation becomes a creature in addition to its other types. Activate only once and only as a sorcery. => When this Manifestation enters, scry 1. You gain 1 life.
+{C}{C}{C}: Draw a card. This Manifestation becomes an enchantment creature. Activate only once and only as a sorcery.
+
+What Mourns for You
+rules_text: As long as a nontoken creature has died this turn, this Manifestation is a creature in addition to its other types.
+Whenever this Manifestation attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. => As long as a nontoken creature has died this turn, this Manifestation is an enchantment creature.
+Whenever this Manifestation enters or attacks, up to one target card from a graveyard and you gain 1 life.
+
+Plans of a Fallen Empire
+rules_text: [i]Infusion[/i] — You may cast this spell as if it had flash if you gained life this turn.
+When this Manifestation enters, return up to one permanent you control to your hand.
+When this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's a creature in addition to its other types. => Flash
+When this Manifestation enters, return up to one permanent you control to your hand.
+When this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's an enchantment creature.
+
+Weave Stones to Stars
+
+Meeting to Understand
+
+Masterminds Know All
+type: Enchantment => Creature — Najmat Avatar Scientist
+cost: {1}{B} => {B}
+rules_text: When this enchantment enters, add “This spell costs {1} less to cast.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i]
+When this enchantment dies, draw a card. => Menace
+Whenever an opponent loses 2 or more life, you may sacrifice this creature. If you do, draw a card and you gain 2 life.
+pt:  => 1/1
+
+TRANCE, Stellar Wanderer
+rules_text: {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast costs {2} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way on a later turn. => {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way.
+special_text: {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast costs {2} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way on a later turn. => {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way.
+
+Cosmic Nibbler
+rules_text: When this creature enters, if it was cast, players can't cast spells until your next turn.
+{1}{U}{U}, Discard this card: Draw two cards. => This spell can't be countered.
+Flying, ward {2}
+{U}{U}{U}, Discard this card: Scry 2, then draw two cards.
+pt: 5/5 => 5/6
+
+Information Carver
+rules_text: Menace
+Whenever this creature deals combat damage to a player, add “You may draw a card and lose 1 life.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i] => Menace
+Whenever this creature deals combat damage to a player, add “You may draw a card and lose 1 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Innovation Emissary
+
+Notions of Voracity
+rules_text: Trample
+When this creature enters, you gain 3 life.
+{2}{G}, Discard this card: Create a 2/1 green Avatar creature token. You gain 2 life. => Trample
+When this creature enters, you gain 3 life.
+{2}{G}, Discard this card: Create a 2/1 green Illusion creature token. You gain 2 life.
+
+The Grand Expedition
+
+Ecclesia, Interplanar Leech
+
+To Teach Medicine
+rules_text: Whenever another creature you control enters, add “You gain 1 life.” to your next pool of research. [i](Your pool of research is a {5} sorcery you may cast copies of during your turn.)[/i]
+[i]Infusion[/i] — At the beginning of combat on your turn, if you gained life this turn, target creature gets +X/+X and gains vigilance until end of turn, where X is the life gained. => Whenever another creature you control enters, add “You gain 1 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+[i]Infusion[/i] — At the beginning of combat on your turn, if you gained life this turn, target creature gets +X/+X until end of turn, where X is the life gained.
+
+Len, Cosmic Emissary
+rules_text: Whenever one or more cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills a card. You gain 2 life.
+[0]: You may play a permanent card exiled by Len.
+[-9]: Some big ult => Whenever one or more cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills two cards. You gain 2 life. You may play a card exiled by Len.
+[0]: You may play three cards exiled by Len this turn. For each nonland card played this way, you lose 1 life.
+[-9]: Put each permanent card exiled by Len onto the battlefield.
+special_text: Whenever one or more cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills a card. You gain 2 life.
+[0]: You may play a permanent card exiled by Len.
+[-9]: Some big ult => Whenever one or more cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills two cards. You gain 2 life. You may play a card exiled by Len.
+[0]: You may play three cards exiled by Len this turn. For each nonland card played this way, you lose 1 life.
+[-9]: Put each permanent card exiled by Len onto the battlefield.
+
+Finding the First Emissary
+
+Crucible Blaze
+
+Elementary Interception
+
+Plea for Silence
+rules_text: Destroy all creatures. If {C}{C}{C} was spent to cast this spell, destroy all nonland permanents instead. => Exile all creatures. If {C}{C}{C} was spent to cast this spell, exile all nonland permanents instead.
+
+Erosion May Break You
+
+Visions of Tenfold Spires
+
+Visions of Erudite Histories
+
+Visions of Cursed Seas
+
+Visions of Myriad Realms
+
+Visions of Restless Earth
+
+Crystallized Institute
+
+Crumbling Expanse
+
+Forgotten Colony
+
+Wild Dreamlands
+
+Multispace Labs
+
+Dimensional Singularity
+
+Eroded Edifice
+
+Abandoned Observation Bay
+
+Slumbering Peaks
+
+Avatar
+
+Pool of Research
+rules_text: [i](You may cast copies of this spell during your turn if an effect has referenced your pool of research this game.)[/i] => [i](You may cast copies of this spell from exile during your turn if you have applied an effect to your next cast pool of research this game.)[/i]
+
+Pour Into Itself
+
+Beyond Home
+rules_text: Whenever this enchantment enters or at the beginning of your upkeep, exile the top card of your library face down. You may look at those cards for as long as they remain exiled.
+{2}{B}, Pay X life, Sacrifice this enchantment: Put X cards exiled by this enchantment into your hand. Activate only as a sorcery. => When this enchantment enters or at the beginning of your upkeep, exile the top card of your library face down. You may look at those cards for as long as they remain exiled.
+{2}{B}, Pay X life, Sacrifice this enchantment: Put X cards exiled by this enchantment into your hand. Activate only as a sorcery.
+
+Comforting Counsel
+
+Disaster Stabilization
+
+Apathy Loves Company
+
+Angel
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
