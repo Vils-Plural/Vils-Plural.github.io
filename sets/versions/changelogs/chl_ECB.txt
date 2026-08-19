@@ -1,4 +1,123 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Knowledge Emissary
+rules_text: First strike, vigilance
+When this creature enters, if {C}{C} was spent to cast it, draw a card. => First strike, vigilance
+When this creature enters, if {C}{C} was spent to cast it, scry 2, then draw a card.
+
+Final Altar For Dreaming
+rules_text: Flash
+Enchant creature
+Whenever enchanted creature deals combat damage, sacrifice this Aura. When you do, prevent that damage. => Flash
+Enchant creature
+When this enchantment enters, prevent all combat damage that would be dealt this turn.
+Enchanted creature gets +2/+1
+
+Cosmic Metamorphosis
+rules_text: Ward {2}
+When this enchantment enters, exile each creature with mana value X until this enchantment leaves the battlefield. => Ward {2}
+When this enchantment enters, exile each creature with mana value X or less until this enchantment leaves the battlefield.
+
+Expansion Emissary
+cost: {1}{C}{C}{C}{G} => {3}{C}{G}
+
+Doctor Aeon
+cost: {5}{C}{C}{C} => {6}{C}{C}
+
+Incomprehensible Gift
+cost: {X}{C}{C} => {X}{1}{C}
+rules_text: When this enchantment enters, you gain X life.
+[i]Infusion[/i] — At the beginning of your end step, if you gained life this turn, draw a card. => When this enchantment enters, you gain X life.
+[i]Infusion[/i] — At the beginning of your end step, scry 2. Then if you gained life this turn, draw a card.
+
+Insects Eat Spiders
+cost: {C}{C} => {1}{C}
+pt: 1/3 => 2/2
+
+Leafless Boughs Grant Shade
+cost: {C}{C} => {1}{C}
+
+Lone Souls Wish Best
+cost: {C}{C} => {1}{C}
+pt: 1/3 => 3/1
+
+Spring Blooms in Winter Snow
+rules_text: Whenever this Manifestation enters or attacks, add two mana in any combination of colors. Until end of turn, you don't lose this mana as steps and phases end.
+{C}{C}{C}: If this Manifestation isn't a creature, it becomes an enchantment creature. Activate only as a sorcery. => Whenever this Manifestation enters or attacks, add two mana in any combination of colors. Until end of turn, you don't lose this mana as steps and phases end.
+{2}{C}: If this Manifestation isn't a creature, it becomes an enchantment creature. Activate only as a sorcery.
+
+Nerixim, Cursed Stranger
+rules_text: Flying, vigilance
+Colorless spells and spells players cast from outside their hands cost {1} less to cast.
+{8}{U}{U}, {T}, Exile Nerixim: Shuffle your hand and graveyard into your library, then draw seven cards. => Flying, vigilance
+Colorless spells and spells you cast from outside your hand cost {C}{C} [i](or {2})[/i] less to cast.
+{5}{U}{U}, {T}, Exile Nerixim: Shuffle your hand and graveyard into your library, then draw seven cards.
+
+Repurpose Nothing
+cost: {C}{C}{C} => {2}{C}
+
+Loud Twins Cannot Speak
+cost: {C}{C}{C} => {2}{C}
+rules_text: When this creature enters, you may search your library for a card, exile it face down, then shuffle.
+When this creature dies, put the card exiled by it into your hand. => When this creature enters, you may search your library for a card, exile it face down, then shuffle.
+When this creature dies, put the card exiled by it into your hand.
+{4}{C}, Sacrifice this creature: Add four mana in any combination of colors.
+pt: 2/1 => 4/2
+
+Conflict Brings Peace
+cost: {C}{C} => {1}{C}
+rules_text: Look at target opponent's hand. You choose a nonland card from it. That player discards that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.” => Look at target opponent's hand. You choose a card from it. That player discards that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+
+Beauty Holds Divine Right
+rules_text: When this Manifestation enters, scry 1. You gain 1 life.
+{C}{C}{C}: Draw a card. This Manifestation becomes an enchantment creature. Activate only once and only as a sorcery. => When this Manifestation enters, scry 1. You gain 1 life.
+{2}{C}: Draw two cards. This Manifestation becomes an enchantment creature. Activate only once and only as a sorcery.
+pt: 4/2 => 4/3
+
+What Mourns for You
+cost: {C}{C}{C} => {1}
+rules_text: As long as a nontoken creature has died this turn, this Manifestation is an enchantment creature.
+Whenever this Manifestation enters or attacks, up to one target card from a graveyard and you gain 1 life. => As long as a nontoken creature has died this turn, this Manifestation is an enchantment creature.
+Whenever this Manifestation enters or attacks, exile up to one target card from a graveyard and you gain 1 life.
+pt: 0/4 => 2/4
+
+El Ior, Planar Whisperer
+cost: {2}{G} => {G}
+rules_text: [+1]: Mill three cards. You may return a permanent card from among them to your hand.
+As an additional cost to cast this spell, pay one or more additional costs. El Ior gains those abilities.
+[-1]: + {U} — Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
+[-2]: + {1}{B} — Return target creature card from your graveyard to the battlefield. => [+1]: Mill three cards. You may return a permanent card from among them to your hand.
+As an additional cost to cast this spell, pay one or more additional costs. El Ior gains those abilities.
+[-1]: + {2}{U} — Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
+[-2]: + {3}{B} — Return target creature card from your graveyard to the battlefield.
+special_text: [+1]: Mill three cards. You may return a permanent card from among them to your hand.
+As an additional cost to cast this spell, pay one or more additional costs. El Ior gains those abilities.
+[-1]: + {U} — Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
+[-2]: + {1}{B} — Return target creature card from your graveyard to the battlefield. => [+1]: Mill three cards. You may return a permanent card from among them to your hand.
+As an additional cost to cast this spell, pay one or more additional costs. El Ior gains those abilities.
+[-1]: + {2}{U} — Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
+[-2]: + {3}{B} — Return target creature card from your graveyard to the battlefield.
+
+Plans of a Fallen Empire
+cost: {C}{C}{C} => {1}{C}
+
+Weave Stones to Stars
+cost: {C}{C} => {1}{C}
+
+Meeting to Understand
+cost: {C}{C}{C} => {2}{C}
+
+Pour Into Itself
+cost: {1}{W}{U} => {W}{U}
+
+Form of a Newborn Star
+cost: {1}{B}{B} => {3}{B}
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
