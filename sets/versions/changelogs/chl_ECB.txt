@@ -1,4 +1,50 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Hours to Oblivion
+cost: {3}{B}{R} => {1}{B}{R}
+rules_text: This spell costs {2} less to cast if your deck has twenty or less cards in it.
+Hours to Oblivion deals 5 damage to any nonplayer target. When a permanent dealt damage this way dies this turn, exile it. => If your deck has twenty or fewer cards in it when you cast this spell, copy this spell. You may choose new targets for the copy.
+Exile target creature, artifact, or Manifestation. Its controller loses 2 life.
+
+Forest's Love Research
+
+Medicine Research
+
+Outwalker Research
+
+Avatar
+
+Forefront Research
+
+Pulse Research
+
+Carver Research
+
+Bodyguard Research
+
+Outlands Research
+
+Disturbance Research
+
+Illusion
+
+Angel
+
+Najmat
+
+Manifestation
+
+Unending Research
+
+Rot Research
+
+Soldier
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.

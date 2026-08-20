@@ -467,8 +467,8 @@
             "type": "Instant",
             "number": 92,
             "color_identity": "BR",
-            "cost": "{3}{B}{R}",
-            "rules_text": "This spell costs {2} less to cast if your deck has twenty or less cards in it.\nHours to Oblivion deals 5 damage to any nonplayer target. When a permanent dealt damage this way dies this turn, exile it.",
+            "cost": "{1}{B}{R}",
+            "rules_text": "If your deck has twenty or fewer cards in it when you cast this spell, copy this spell. You may choose new targets for the copy.\nExile target creature, artifact, or Manifestation. Its controller loses 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1675,7 +1675,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2043,7 +2043,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2066,7 +2066,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2089,7 +2089,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2112,7 +2112,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2135,7 +2135,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2158,7 +2158,7 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2181,7 +2181,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2204,7 +2204,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2227,7 +2227,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2250,7 +2250,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2365,7 +2365,7 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2687,7 +2687,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3055,7 +3055,7 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3193,7 +3193,7 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3285,7 +3285,7 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3308,7 +3308,7 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3331,7 +3331,7 @@
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": "!group tokens",
+            "notes": "!group token",
             "image_type": "png",
             "v_mana": ""
         }

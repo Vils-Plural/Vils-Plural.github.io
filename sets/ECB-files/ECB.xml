@@ -375,16 +375,16 @@ Target creature or Manifestation&apos;s owner puts it on the bottom of their lib
 		</card>
 		<card>
 			<name>Hours to Oblivion</name>
-			<text>This spell costs {2} less to cast if your deck has twenty or less cards in it.
-Hours to Oblivion deals 5 damage to any nonplayer target. When a permanent dealt damage this way dies this turn, exile it.</text>
+			<text>If your deck has twenty or fewer cards in it when you cast this spell, copy this spell. You may choose new targets for the copy.
+Exile target creature, artifact, or Manifestation. Its controller loses 2 life.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/20.png" num="92">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3BR</manacost>
-				<cmc>5</cmc>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
