@@ -14,7 +14,7 @@
 			<text>Vigilance
 As this creature enters, target opponent reveals their hand, then choose any card name.
 Spells of the chosen name cost {2} more to cast.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/0.png" num="27">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/0.png" num="26">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -34,7 +34,7 @@ Spells of the chosen name cost {2} more to cast.</text>
 When this creature enters, choose one —
 • Target creature can&apos;t be blocked this turn.
 • Target creature gets +1/+2 and gains hexproof until end of turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/1.png" num="36">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/1.png" num="35">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -51,7 +51,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Outwalker Antiquarian</name>
 			<text>When this creature enters, add &quot;Create three 1/1 colorless Avatar creature tokens.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/2.png" num="30">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/2.png" num="29">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -72,7 +72,7 @@ When this creature enters, choose one —
 			<name>Forefront Inquisitive</name>
 			<text>Vigilance
 Whenever this creature attacks, add &quot;Draw a card, then discard a card.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/3.png" num="42">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/3.png" num="41">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -92,7 +92,7 @@ Whenever this creature attacks, add &quot;Draw a card, then discard a card.&quot
 			<name>Knowledge Emissary</name>
 			<text>First strike, vigilance
 When this creature enters, if {C}{C} was spent to cast it, scry 2, then draw a card.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/4.png" num="29">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/4.png" num="28">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -110,7 +110,7 @@ When this creature enters, if {C}{C} was spent to cast it, scry 2, then draw a c
 			<name>Hermit Emissary</name>
 			<text>Flying
 When this creature enters, if {C}{C}{C} was spent to cast it, take an extra beginning phase after this phase. (The beginning phase includes the untap, upkeep, and draw steps.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/5.png" num="43">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/5.png" num="42">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -128,7 +128,7 @@ When this creature enters, if {C}{C}{C} was spent to cast it, take an extra begi
 			<name>Research Bodyguard</name>
 			<text>When this creature enters or dies, each opponent loses 2 life and you gain 2 life.
 Whenever another creature dies, add &quot;Each opponent loses 2 life and you gain 2 life.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/6.png" num="58">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/6.png" num="57">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -147,7 +147,7 @@ Whenever another creature dies, add &quot;Each opponent loses 2 life and you gai
 		<card>
 			<name>Gift of a Pulse</name>
 			<text>When this enchantment enters, draw two cards and you lose 2 life. Add &quot;Up to one Manifestation you control becomes an enchantment creature.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/7.png" num="52">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/7.png" num="51">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -167,7 +167,7 @@ Whenever another creature dies, add &quot;Each opponent loses 2 life and you gai
 			<name>Plunge From Itself</name>
 			<text>Beyond — As an additional cost to cast this spell, discard a card unless you control three or more enchantments.
 Destroy target creature or Manifestation.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/8.png" num="57">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/8.png" num="56">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -182,17 +182,16 @@ Destroy target creature or Manifestation.</text>
 		</card>
 		<card>
 			<name>Final Altar For Dreaming</name>
-			<text>Flash
-Enchant creature
-When this enchantment enters, prevent all combat damage that would be dealt this turn.
-Enchanted creature gets +2/+1</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/9.png" num="6">ECB</set>
+			<text>When this artifact enters, draw a card.
+{X}, {T}: Add X {C}.
+{2}{C}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/9.png" num="106">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
-				<manacost>CC</manacost>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
 				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
@@ -216,7 +215,7 @@ When this enchantment enters, exile each creature with mana value X or less unti
 			<name>Anomalous Insight</name>
 			<text>Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom library in any order.
 Beyond — If you control three or more enchantments, draw a card.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/11.png" num="37">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/11.png" num="36">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -233,7 +232,7 @@ Beyond — If you control three or more enchantments, draw a card.</text>
 			<name>Instructor Emissary</name>
 			<text>Trample, haste
 When this creature enters, if {C}{C}{C} was spent to cast it, other creatures you control get +3/+0 and gain trample and haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/12.png" num="68">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/12.png" num="67">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -250,7 +249,7 @@ When this creature enters, if {C}{C}{C} was spent to cast it, other creatures yo
 		<card>
 			<name>Redshift</name>
 			<text>Redshift deals 3 damage divided among one or two targets.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/13.png" num="72">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/13.png" num="71">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -267,7 +266,7 @@ When this creature enters, if {C}{C}{C} was spent to cast it, other creatures yo
 			<name>Notions of Malevolence</name>
 			<text>Menace
 Whenever an opponent gains life or a nonbasic land enters under an opponent&apos;s control, this creature deals 1 damage to that player.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/14.png" num="70">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/14.png" num="69">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -285,7 +284,7 @@ Whenever an opponent gains life or a nonbasic land enters under an opponent&apos
 			<name>Forest&apos;s Love Finds Root</name>
 			<text>Target creature gains hexproof, trample, and reach until end of turn.
 Add &quot;Up to one creature you control gains indestructible and trample until end of turn.&quot; to your next pool of research (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/15.png" num="79">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/15.png" num="78">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -304,7 +303,7 @@ Add &quot;Up to one creature you control gains indestructible and trample until 
 			<name>Expansion Emissary</name>
 			<text>Trample, ward {2}
 Whenever this creature deals combat damage to a player, you may cast a copy of your pool of research without paying its mana cost. Copy it. You may choose new targets for the copy. (The copy also has the original&apos;s effects.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/16.png" num="78">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/16.png" num="77">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -322,7 +321,7 @@ Whenever this creature deals combat damage to a player, you may cast a copy of y
 			<name>Outlands Investigator</name>
 			<text>Vigilance
 When this creature enters, add &quot;Search your library for a land card, put it onto the battlefield tapped, then shuffle.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/17.png" num="84">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/17.png" num="83">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -343,7 +342,7 @@ When this creature enters, add &quot;Search your library for a land card, put it
 			<text>Scry 2. For each card put on the bottom of your library this way, you gain 1 life.
 Draw a card.
 Add &quot;Scry 2, then draw a card.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/18.png" num="97">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/18.png" num="96">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -360,7 +359,7 @@ Add &quot;Scry 2, then draw a card.&quot; to your next cast pool of research. (Y
 			<name>Scintillate Away</name>
 			<text>This spell can&apos;t be countered.
 Target creature or Manifestation&apos;s owner puts it on the bottom of their library.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/19.png" num="102">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/19.png" num="101">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -377,7 +376,7 @@ Target creature or Manifestation&apos;s owner puts it on the bottom of their lib
 			<name>Hours to Oblivion</name>
 			<text>If your deck has twenty or fewer cards in it when you cast this spell, copy this spell. You may choose new targets for the copy.
 Exile target creature, artifact, or Manifestation. Its controller loses 2 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/20.png" num="92">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/20.png" num="91">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -394,7 +393,7 @@ Exile target creature, artifact, or Manifestation. Its controller loses 2 life.<
 			<name>Experimental Smasher</name>
 			<text>Trample
 When this creature enters, it deals 3 damage divided as you choose among two or more targets.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/21.png" num="89">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/21.png" num="88">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -411,7 +410,7 @@ When this creature enters, it deals 3 damage divided as you choose among two or 
 		<card>
 			<name>Unlikely Souls Know Rest</name>
 			<text>Search your library for a land card and a basic land card, reveal them, put them into your hand, then shuffle. If an opponent controls more lands than you, you may play an additional land this turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/22.png" num="104">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/22.png" num="103">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -429,7 +428,7 @@ When this creature enters, it deals 3 damage divided as you choose among two or 
 			<text>Choose one —
 • This spell deals 6 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead. You gain 3 life.
 • Each creature deals damage equal to its power to itself.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/23.png" num="93">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/23.png" num="92">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -446,7 +445,7 @@ When this creature enters, it deals 3 damage divided as you choose among two or 
 			<name>Restless Souls Know Peace</name>
 			<text>Menace
 Whenever you cast an instant or sorcery spell, create a 1/1 colorless Avatar creature token. If that spell was mana value 5 or greater, creatures you control get +1/+0 and gain haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/24.png" num="101">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/24.png" num="100">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -465,7 +464,7 @@ Whenever you cast an instant or sorcery spell, create a 1/1 colorless Avatar cre
 			<name>Captured Paradox</name>
 			<text>Whenever you cast a spell, if {C}{C} was spent to cast it, put a +1/+1 counter on this Manifestation and draw a card.
 At the beginning of combat during your turn, if this Manifestation has five or more +1/+1 counters on it and isn&apos;t a creature, it becomes an enchantment creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/25.png" num="87">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/25.png" num="86">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -483,7 +482,7 @@ At the beginning of combat during your turn, if this Manifestation has five or m
 			<name>Replication Inquisition</name>
 			<text>Deathtouch
 When this creature enters, exile target creature card from your graveyard. Create a token that&apos;s a copy of it, except it&apos;s a 3/3 Najmat in addition to its other types.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/26.png" num="100">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/26.png" num="99">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -501,7 +500,7 @@ When this creature enters, exile target creature card from your graveyard. Creat
 			<name>Redline Disruptor</name>
 			<text>When this creature enters, look at target player&apos;s hand. You choose a nonland card from it. That player exiles that card and gains X life, where X is its mana value.
 Infusion — As long as you&apos;ve gained life this turn, this creature gets +2/+2.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/27.png" num="99">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/27.png" num="98">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -519,7 +518,7 @@ Infusion — As long as you&apos;ve gained life this turn, this creature gets +2
 			<name>Short Deaths May Find You</name>
 			<text>Enchant creature
 Enchanted creature is a colorless Manifestation enchantment with &quot;{1}: This Manifestation becomes an enchantment creature until end of turn.&quot; (It loses all other types.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/28.png" num="32">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/28.png" num="31">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -537,7 +536,7 @@ Enchanted creature is a colorless Manifestation enchantment with &quot;{1}: This
 			<text>Vigilance
 Whenever you cast a colorless nonartifact spell, draw a card.
 {T}: Add {C}. Spend this mana only to cast spells from outside your hand.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/29.png" num="46">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/29.png" num="45">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -555,7 +554,7 @@ Whenever you cast a colorless nonartifact spell, draw a card.
 			<name>Obliteration Emissary</name>
 			<text>Menace
 When this creature enters, if {C}{C} was spent to cast it, destroy up to one target creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/30.png" num="56">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/30.png" num="55">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -573,7 +572,7 @@ When this creature enters, if {C}{C} was spent to cast it, destroy up to one tar
 			<name>Adorned Deathknell</name>
 			<text>Trample
 Whenever this creature attacks or blocks, discard a card.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/31.png" num="61">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/31.png" num="60">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -591,7 +590,7 @@ Whenever this creature attacks or blocks, discard a card.</text>
 			<name>Dark Fronds Foster Mystery</name>
 			<text>Whenever you tap a land for mana, you may add {C}. This ability triggers only once each turn.
 At the beginning of combat during your turn, if you spent six or more mana to cast spells this turn and this Manifestation isn&apos;t a creature, it becomes an enchantment creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/32.png" num="74">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/32.png" num="73">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -647,7 +646,7 @@ At the beginning of combat during your turn, if you spent six or more mana to ca
 {T}, Pay 1 life: Add one mana of any color.
 {2}{C}, {T}: Level 3
 When this Class becomes level 3, search your library for a land that could produce {C}, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/35.png" num="108">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/35.png" num="109">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -662,7 +661,7 @@ When this Class becomes level 3, search your library for a land that could produ
 			<name>The Heart of Elnyreth</name>
 			<text>{T}: Add {C}.
 {2}, {T}, Sacrifice this land: Destroy target nonbasic land. You and that land&apos;s controller both create a tapped basic land token named Connection with &quot;{T}: Add {C}.&quot;</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/36.png" num="118">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/36.png" num="120">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -675,10 +674,9 @@ When this Class becomes level 3, search your library for a land that could produ
 		</card>
 		<card>
 			<name>Everything and Nothing</name>
-			<text>Lifelink, vigilance
-{T}: Add {C}.
-Beyond — {C}{C}{C}: This land becomes a 3/3 creature. Activate only if you control three or more enchantments. (It&apos;s still a land.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/37.png" num="114">ECB</set>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Activate only if you control a permanent with {C} in its mana cost.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/37.png" num="116">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -693,7 +691,7 @@ Beyond — {C}{C}{C}: This land becomes a 3/3 creature. Activate only if you con
 			<name>Incomprehensible Gift</name>
 			<text>When this enchantment enters, you gain X life.
 Infusion — At the beginning of your end step, scry 2. Then if you gained life this turn, draw a card.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/38.png" num="9">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/38.png" num="8">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -707,7 +705,7 @@ Infusion — At the beginning of your end step, scry 2. Then if you gained life 
 		<card>
 			<name>Insects Eat Spiders</name>
 			<text>This creature gets +4/+0 as long as it isn&apos;t attacking or blocking.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/39.png" num="10">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/39.png" num="9">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -724,7 +722,7 @@ Infusion — At the beginning of your end step, scry 2. Then if you gained life 
 			<text>When this enchantment enters, draw a card.
 Creatures you control have hexproof during your turn.
 The first spell you cast during your turn can&apos;t be countered.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/40.png" num="12">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/40.png" num="11">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -738,7 +736,7 @@ The first spell you cast during your turn can&apos;t be countered.</text>
 		<card>
 			<name>Lone Souls Wish Best</name>
 			<text>When this creature enters, target Manifestation you control becomes an enchantment creature and gains haste until end of turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/41.png" num="13">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/41.png" num="12">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -754,7 +752,7 @@ The first spell you cast during your turn can&apos;t be countered.</text>
 			<name>Spring Blooms in Winter Snow</name>
 			<text>Whenever this Manifestation enters or attacks, add two mana in any combination of colors. Until end of turn, you don&apos;t lose this mana as steps and phases end.
 {2}{C}: If this Manifestation isn&apos;t a creature, it becomes an enchantment creature. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/42.png" num="20">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/42.png" num="19">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -771,7 +769,7 @@ The first spell you cast during your turn can&apos;t be countered.</text>
 			<text>Flying, vigilance
 Colorless spells and spells you cast from outside your hand cost {C}{C} (or {2}) less to cast.
 {5}{U}{U}, {T}, Exile Nerixim: Shuffle your hand and graveyard into your library, then draw seven cards.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/43.png" num="45">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/43.png" num="44">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -787,8 +785,8 @@ Colorless spells and spells you cast from outside your hand cost {C}{C} (or {2})
 		</card>
 		<card>
 			<name>Repurpose Nothing</name>
-			<text>Exile target creature. Its controller creates a 2/2 colorless Manifestation enchantment token with &quot;{3}: This token becomes an enchantment creature.&quot;</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/44.png" num="19">ECB</set>
+			<text>Exile target creature. Its controller creates a 2/2 colorless Manifestation enchantment token with &quot;{2}{C}: This token becomes an enchantment creature.&quot;</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/44.png" num="18">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -806,7 +804,7 @@ Colorless spells and spells you cast from outside your hand cost {C}{C} (or {2})
 • Destroy all artifacts.
 • Destroy all enchantments.
 • Destroy each creature with flying.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/45.png" num="80">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/45.png" num="79">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -823,8 +821,8 @@ Colorless spells and spells you cast from outside your hand cost {C}{C} (or {2})
 			<name>Loud Twins Cannot Speak</name>
 			<text>When this creature enters, you may search your library for a card, exile it face down, then shuffle.
 When this creature dies, put the card exiled by it into your hand.
-{4}{C}, Sacrifice this creature: Add four mana in any combination of colors.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/46.png" num="14">ECB</set>
+{3}{C}, Sacrifice this creature: Add four mana in any combination of colors.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/46.png" num="13">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -838,7 +836,7 @@ When this creature dies, put the card exiled by it into your hand.
 		</card>
 		<card>
 			<name>Conflict Brings Peace</name>
-			<text>Look at target opponent&apos;s hand. You choose a card from it. That player discards that card and creates a tapped colorless basic land token named Connection with &quot;{T}: Add {C}.&quot;</text>
+			<text>Look at target opponent&apos;s hand. You choose a nonbasic card from it. That player discards that card and creates a tapped colorless basic land token named Connection with &quot;{T}: Add {C}.&quot;</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/47.png" num="2">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -871,22 +869,22 @@ When this creature dies, put the card exiled by it into your hand.
 			<name>What Mourns for You</name>
 			<text>As long as a nontoken creature has died this turn, this Manifestation is an enchantment creature.
 Whenever this Manifestation enters or attacks, exile up to one target card from a graveyard and you gain 1 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/49.png" num="22">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/49.png" num="21">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Manifestation</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1</manacost>
+				<manacost>C</manacost>
 				<cmc>1</cmc>
-				<pt>2/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Burn from Within</name>
 			<text>Destroy target enchantment with mana value 2 or less. If it had mana value 0, you gain 2 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/50.png" num="24">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/50.png" num="23">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -905,7 +903,7 @@ Whenever this Manifestation enters or attacks, exile up to one target card from 
 As an additional cost to cast this spell, pay one or more additional costs. El Ior gains those abilities.
 [-1]: + {2}{U} — Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
 [-2]: + {3}{B} — Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/51.png" num="76">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/51.png" num="75">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -924,7 +922,7 @@ As an additional cost to cast this spell, pay one or more additional costs. El I
 			<text>Flash
 When this Manifestation enters, return up to one permanent you control to your hand.
 When this Manifestation dies, if it isn&apos;t a creature, return it to the battlefield under its owner&apos;s control. It&apos;s an enchantment creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/52.png" num="18">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/52.png" num="17">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -932,7 +930,7 @@ When this Manifestation dies, if it isn&apos;t a creature, return it to the batt
 				<maintype>Enchantment</maintype>
 				<manacost>1C</manacost>
 				<cmc>2</cmc>
-				<pt>3/3</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -940,7 +938,7 @@ When this Manifestation dies, if it isn&apos;t a creature, return it to the batt
 			<name>Weave Stones to Stars</name>
 			<text>Reach
 Each player can&apos;t cast spells that have mana value 1.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/53.png" num="21">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/53.png" num="20">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -955,7 +953,7 @@ Each player can&apos;t cast spells that have mana value 1.</text>
 		<card>
 			<name>Meeting to Understand</name>
 			<text>Scry 1, then draw two cards.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/54.png" num="15">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/54.png" num="14">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -970,7 +968,7 @@ Each player can&apos;t cast spells that have mana value 1.</text>
 			<name>Masterminds Know All</name>
 			<text>Menace
 Whenever an opponent loses 2 or more life, you may sacrifice this creature. If you do, draw a card and you gain 2 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/55.png" num="55">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/55.png" num="54">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -989,7 +987,7 @@ Whenever an opponent loses 2 or more life, you may sacrifice this creature. If y
 			<text>Whenever this enchantment enters or you cast a spell with mana value 5 or greater, choose one —
 • Exile the top card of your library. You may play it during your next turn.
 • This enchantment deals 3 damage to each opponent.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/56.png" num="69">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/56.png" num="68">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1007,8 +1005,8 @@ Whenever an opponent loses 2 or more life, you may sacrifice this creature. If y
 			<text>{2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
 [+2]: You may return another permanent you control to your hand. If you do, draw a card.
 [0]: The next creature spell you cast this turn costs {1} less to cast.
-[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/57.png" num="35">ECB</set>
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/57.png" num="34">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1027,7 +1025,7 @@ Whenever an opponent loses 2 or more life, you may sacrifice this creature. If y
 			<text>This spell can&apos;t be countered.
 Flying, ward {2}
 {U}{U}{U}, Discard this card: Scry 2, then draw two cards.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/58.png" num="38">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/58.png" num="37">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1045,7 +1043,7 @@ Flying, ward {2}
 			<name>Information Carver</name>
 			<text>Menace
 Whenever this creature deals combat damage to a player, add &quot;You may draw a card and lose 1 life.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/59.png" num="53">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/59.png" num="52">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1064,7 +1062,7 @@ Whenever this creature deals combat damage to a player, add &quot;You may draw a
 		<card>
 			<name>Innovation Emissary</name>
 			<text>Whenever you cast a noncreature spell with mana value 5 or greater, exile the top card of your library. You may play it this turn. If {C}{C}{C} was spent to cast that spell, you may play the exiled card without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/60.png" num="67">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/60.png" num="66">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1083,7 +1081,7 @@ Whenever this creature deals combat damage to a player, add &quot;You may draw a
 			<text>Trample
 When this creature enters, you gain 3 life.
 {2}{G}, Discard this card: Create a 2/1 green Illusion creature token. You gain 2 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/61.png" num="83">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/61.png" num="82">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1104,7 +1102,7 @@ When this creature enters, you gain 3 life.
 I — This Saga gains &quot;{T}: Add {C}.&quot; and &quot;{1}, {T}: Add one mana of any color.&quot;
 II — This Saga gains &quot;{2}, {T}: Draw a card. Activate only as a sorcery.&quot;
 III — Create a Treasure token and a 2/2 colorless Avatar creature token.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/62.png" num="117">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/62.png" num="119">ECB</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1120,7 +1118,7 @@ III — Create a Treasure token and a 2/2 colorless Avatar creature token.</text
 			<text>Changeling (This card is every creature type.)
 Menace
 Whenever Ecclesia enters or you cast a spell from outside your hand, exile the top card of your library. Ecclesia deals damage to each opponent equal to that card&apos;s mana value.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/63.png" num="65">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/63.png" num="64">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1138,7 +1136,7 @@ Whenever Ecclesia enters or you cast a spell from outside your hand, exile the t
 			<name>To Teach Medicine</name>
 			<text>Whenever another creature you control enters, add &quot;You gain 1 life.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)
 Infusion — At the beginning of combat on your turn, if you gained life this turn, target creature gets +X/+X until end of turn, where X is the life gained.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/64.png" num="34">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/64.png" num="33">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1160,7 +1158,7 @@ Infusion — At the beginning of combat on your turn, if you gained life this tu
 [+2]: Each player mills two cards. You gain 2 life. You may play a card exiled by Len.
 [0]: You may play three cards exiled by Len this turn. For each nonland card played this way, you lose 1 life.
 [-9]: Put each permanent card exiled by Len onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/65.png" num="54">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/65.png" num="53">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1182,7 +1180,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 {T}: Add {C}{C}.
 To solve — You control five or more other lands. (If unsolved, solve at the beginning of your end step.)
 {T}: Add {C}{C}{C}{C}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/66.png" num="115">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/66.png" num="117">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1196,7 +1194,7 @@ To solve — You control five or more other lands. (If unsolved, solve at the be
 		<card>
 			<name>Crucible Blaze</name>
 			<text>Destroy target artifact with mana value 2 or less. If it had mana value 0, Crucible Blaze deals 2 damage to each opponent.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/67.png" num="63">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/67.png" num="62">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1214,7 +1212,7 @@ To solve — You control five or more other lands. (If unsolved, solve at the be
 			<text>Flash
 This creature enters with a +1/+1 counter on it for each creature that died this turn.
 When this creature dies, each opponent sacrifices a creature or enchantment they control.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/68.png" num="59">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/68.png" num="58">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1232,7 +1230,7 @@ When this creature dies, each opponent sacrifices a creature or enchantment they
 			<name>Elementary Interception</name>
 			<text>Counter target enchantment spell.
 Cycling {2}</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/69.png" num="40">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/69.png" num="39">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1248,7 +1246,7 @@ Cycling {2}</text>
 		<card>
 			<name>Plea for Silence</name>
 			<text>Exile all creatures. If {C}{C}{C} was spent to cast this spell, exile all nonland permanents instead.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/70.png" num="31">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/70.png" num="30">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1268,7 +1266,7 @@ Cycling {2}</text>
 • Destroy target enchantment.
 • Destroy target creature with flying.
 • Draw a card.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/71.png" num="77">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/71.png" num="76">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1301,7 +1299,7 @@ Cycling {2}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {W}.
 {3}{C}{W}, {T}, Sacrifice this land: Create a tapped 3/3 white Angel creature token with flying, first strike, vigilance, and lifelink.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/73.png" num="125">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/73.png" num="130">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1319,7 +1317,7 @@ Cycling {2}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {U}.
 {3}{C}{U}, {T}, Sacrifice this land: Draw three cards, then discard a card.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/74.png" num="122">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/74.png" num="127">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1336,7 +1334,7 @@ Cycling {2}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {B}.
 {3}{C}{B}, {T}, Sacrifice this land: Return up to two target creature cards from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/75.png" num="121">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/75.png" num="126">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1353,7 +1351,7 @@ Cycling {2}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {R}.
 {3}{C}{R}, {T}, Sacrifice this land: Target creature gains double strike until end of turn. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/76.png" num="123">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/76.png" num="128">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1370,7 +1368,7 @@ Cycling {2}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {G}.
 {3}{C}{G}, {T}, Sacrifice this land: Put four +1/+1 counters on target permanent you control. If it isn&apos;t a creature, it becomes a 0/0 creature in addition to its other types. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/77.png" num="124">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/77.png" num="129">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1386,7 +1384,7 @@ Cycling {2}</text>
 			<name>Crystallized Institute</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {W} or {U}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/78.png" num="110">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/78.png" num="111">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1402,7 +1400,7 @@ Cycling {2}</text>
 			<name>Crumbling Expanse</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {U} or {B}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/79.png" num="109">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/79.png" num="110">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1418,7 +1416,7 @@ Cycling {2}</text>
 			<name>Forgotten Colony</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {B} or {R}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/80.png" num="116">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/80.png" num="118">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1434,7 +1432,7 @@ Cycling {2}</text>
 			<name>Wild Dreamlands</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {R} or {G}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/81.png" num="126">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/81.png" num="131">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1450,7 +1448,7 @@ Cycling {2}</text>
 			<name>Multispace Labs</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {G} or {W}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/82.png" num="119">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/82.png" num="121">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1466,7 +1464,7 @@ Cycling {2}</text>
 			<name>Engine Room</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {R} or {W}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/83.png" num="112">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/83.png" num="114">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1482,7 +1480,7 @@ Cycling {2}</text>
 			<name>Dimensional Singularity</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {W} or {B}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/84.png" num="111">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/84.png" num="113">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1498,7 +1496,7 @@ Cycling {2}</text>
 			<name>Eroded Edifice</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {B} or {G}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/85.png" num="113">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/85.png" num="115">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1530,7 +1528,7 @@ Cycling {2}</text>
 			<name>Slumbering Peaks</name>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {U} or {R}.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/87.png" num="120">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/87.png" num="122">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1720,7 +1718,7 @@ Scry 2, then draw a card.</text>
 			<name>Pour Into Itself</name>
 			<text>Destroy target nonland permanent if it&apos;s an artifact or enchantment. Otherwise, return it to its owner&apos;s hand.
 You gain 2 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/99.png" num="98">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/99.png" num="97">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1737,7 +1735,7 @@ You gain 2 life.</text>
 			<name>Sudden Rot Begets Wisdom</name>
 			<text>You may sacrifice a permanent. If you do, draw two cards.
 Add &quot;Mill three cards, then create a 1/1 colorless Avatar creature token for each creature card in your graveyard.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/100.png" num="103">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/100.png" num="102">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1756,7 +1754,7 @@ Add &quot;Mill three cards, then create a 1/1 colorless Avatar creature token fo
 			<name>Notions of Unending Threat</name>
 			<text>When this enchantment enters, add &quot;Return up to one creature card from your graveyard to the battlefield.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)
 Whenever a creature you control enters, this enchantment deals 2 damage to target opponent.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/101.png" num="95">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/101.png" num="94">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1793,7 +1791,7 @@ Whenever a creature you control enters, this enchantment deals 2 damage to targe
 			<name>Beyond Home</name>
 			<text>When this enchantment enters or at the beginning of your upkeep, exile the top card of your library face down. You may look at those cards for as long as they remain exiled.
 {2}{B}, Pay X life, Sacrifice this enchantment: Put X cards exiled by this enchantment into your hand. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/103.png" num="48">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/103.png" num="47">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1811,7 +1809,7 @@ Whenever a creature you control enters, this enchantment deals 2 damage to targe
 			<text>Flying
 Whenever one or more creatures you control deal combat damage to a player, draw a card.
 At the beginning of your end step, if you have seven or more cards in your hand, this Manifestation becomes an enchantment creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/104.png" num="47">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/104.png" num="46">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1829,7 +1827,7 @@ At the beginning of your end step, if you have seven or more cards in your hand,
 			<name>Comforting Counsel</name>
 			<text>Whenever you gain life, put a growth counter on this enchantment.
 As long as there are five or more growth counters on this enchantment, creatures you control get +3/+3.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/105.png" num="73">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/105.png" num="72">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1846,7 +1844,7 @@ As long as there are five or more growth counters on this enchantment, creatures
 			<name>Disaster Stabilization</name>
 			<text>Target permanent you control gains your choice of hexproof or indestructible until end of turn.
 Infusion — If you gained life this turn, draw a card.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/106.png" num="28">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/106.png" num="27">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1862,7 +1860,7 @@ Infusion — If you gained life this turn, draw a card.</text>
 		<card>
 			<name>Pyroclasm</name>
 			<text>Pyroclasm deals 2 damage to each creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/107.png" num="71">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/107.png" num="70">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1880,7 +1878,7 @@ Infusion — If you gained life this turn, draw a card.</text>
 			<text>Backup 2 (When this creature enters, put two +1/+1 counters on target creature. If that&apos;s another creature, it gains the following abilities until end of turn.)
 Flying
 Whenever this creature deals damage, you gain 2 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/108.png" num="96">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/108.png" num="95">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1898,7 +1896,7 @@ Whenever this creature deals damage, you gain 2 life.</text>
 			<name>Laboratory Overseer</name>
 			<text>When this creature enters, create a tapped colorless basic land token named Connection with &quot;{T}: Add {C}.&quot;
 At the beginning of your end step, untap up to three lands you control.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/109.png" num="94">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/109.png" num="93">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1917,7 +1915,7 @@ At the beginning of your end step, untap up to three lands you control.</text>
 			<name>Channel the Lightless Sun</name>
 			<text>Lifelink
 Channel the Lightless Sun deals X plus 2 damage to any target that&apos;s tapped or isn&apos;t a creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/110.png" num="88">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/110.png" num="87">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1935,7 +1933,7 @@ Channel the Lightless Sun deals X plus 2 damage to any target that&apos;s tapped
 			<text>As an additional cost to cast this spell, tap five untapped permanents you control.
 Trample, reach
 At the beginning of your end step, if this creature is tapped, untap up to one other permanent you control.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/111.png" num="106">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/111.png" num="105">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1953,7 +1951,7 @@ At the beginning of your end step, if this creature is tapped, untap up to one o
 			<name>Heartland Recidivist</name>
 			<text>This creature has first strike as long as it&apos;s attacking.
 Whenever you spend {C}{C} to cast a spell, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/112.png" num="91">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/112.png" num="90">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1971,7 +1969,7 @@ Whenever you spend {C}{C} to cast a spell, this creature gets +1/+0 until end of
 			<name>Apathy Loves Company</name>
 			<text>This spell costs {X} less to cast, where X is the greatest mana value among spells you&apos;ve cast this turn.
 Vigilance</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/113.png" num="86">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/113.png" num="85">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1988,7 +1986,7 @@ Vigilance</text>
 		<card>
 			<name>Gazes Back</name>
 			<text>Return target creature or planeswalker to its owner&apos;s hand. That player loses life equal to its mana value.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/114.png" num="90">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/114.png" num="89">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2006,7 +2004,7 @@ Vigilance</text>
 			<text>Vigilance, trample, hexproof
 VERITY can&apos;t attack or block unless you control six or more lands that could produce {C}.
 {2}{R}{G}: Mill two cards. You may play them this turn. You may play an additional land this turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/115.png" num="105">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/115.png" num="104">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2040,7 +2038,7 @@ VERITY can&apos;t attack or block unless you control six or more lands that coul
 		<card>
 			<name>Negate</name>
 			<text>Counter target noncreature spell.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/117.png" num="44">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/117.png" num="43">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2056,7 +2054,7 @@ VERITY can&apos;t attack or block unless you control six or more lands that coul
 		<card>
 			<name>Day of Judgment</name>
 			<text>Destroy all creatures.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/118.png" num="26">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/118.png" num="25">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2072,7 +2070,7 @@ VERITY can&apos;t attack or block unless you control six or more lands that coul
 		<card>
 			<name>Essence Scatter</name>
 			<text>Counter target creature spell.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/119.png" num="41">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/119.png" num="40">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2088,7 +2086,7 @@ VERITY can&apos;t attack or block unless you control six or more lands that coul
 		<card>
 			<name>Banishing Light</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/120.png" num="23">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/120.png" num="22">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2105,7 +2103,7 @@ VERITY can&apos;t attack or block unless you control six or more lands that coul
 			<name>Decrepit Wings Find No Rest</name>
 			<text>Creatures you control have trample.
 Whenever you attack with three or more creatures, if this Manifestation isn&apos;t a creature, exile it, then return it to the battlefield under your control. It&apos;s a tapped and attacking enchantment creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/121.png" num="64">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/121.png" num="63">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2123,7 +2121,7 @@ Whenever you attack with three or more creatures, if this Manifestation isn&apos
 			<name>Burst Lightning</name>
 			<text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
 Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/122.png" num="62">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/122.png" num="61">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2143,7 +2141,7 @@ Choose one. If this spell was kicked, choose any number instead.
 • Put two +1/+1 counters on target creature.
 • Target player gains X life, where X is the greatest power among creatures they control.
 • Target creature you control fights target creature you don&apos;t control.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/123.png" num="81">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/123.png" num="80">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2160,7 +2158,7 @@ Choose one. If this spell was kicked, choose any number instead.
 			<name>A New Beginning</name>
 			<text>At the beginning of your upkeep, create a tapped colorless basic land token named Connection with &quot;{T}: Add {C}.&quot;
 {5}{C}{C}{C}: Create a 1/1 colorless Avatar creature token and a 4/2 Najmat creature token that&apos;s all colors. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/124.png" num="82">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/124.png" num="81">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2180,7 +2178,7 @@ Choose one. If this spell was kicked, choose any number instead.
 			<name>Foolish Fate</name>
 			<text>Destroy target creature.
 Infusion — If you gained life this turn, that creature&apos;s controller loses 3 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/125.png" num="50">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/125.png" num="49">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2196,7 +2194,7 @@ Infusion — If you gained life this turn, that creature&apos;s controller loses
 		<card>
 			<name>Extinguish All Hope</name>
 			<text>Destroy all nonenchantment creatures.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/126.png" num="49">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/126.png" num="48">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2213,7 +2211,7 @@ Infusion — If you gained life this turn, that creature&apos;s controller loses
 			<name>Cryogen Relic</name>
 			<text>When this artifact enters or leaves the battlefield, draw a card.
 {1}{U}, Sacrifice this artifact: Put a stun counter on up to one target tapped creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/127.png" num="39">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/127.png" num="38">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2230,7 +2228,7 @@ Infusion — If you gained life this turn, that creature&apos;s controller loses
 			<name>Dawn of Hope</name>
 			<text>Whenever you gain life, you may pay {2}. If you do, draw a card.
 {3}{W}: Create a 1/1 white Soldier creature token with lifelink.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/128.png" num="25">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/128.png" num="24">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2247,7 +2245,7 @@ Infusion — If you gained life this turn, that creature&apos;s controller loses
 		<card>
 			<name>Stargaze</name>
 			<text>Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest into your graveyard. You lose X life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/129.png" num="60">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/129.png" num="59">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2264,7 +2262,7 @@ Infusion — If you gained life this turn, that creature&apos;s controller loses
 			<name>Full Throttle</name>
 			<text>After this main phase, there are two additional combat phases.
 At the beginning of each combat this turn, untap all creatures that attacked this turn.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/130.png" num="66">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/130.png" num="65">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2280,7 +2278,7 @@ At the beginning of each combat this turn, untap all creatures that attacked thi
 		<card>
 			<name>Ecological Appreciation</name>
 			<text>Search your library and graveyard for up to four creature cards with different names that each have mana value X or less and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest onto the battlefield. Exile Ecological Appreciation.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/131.png" num="75">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/131.png" num="74">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2314,7 +2312,7 @@ At the beginning of each combat this turn, untap all creatures that attacked thi
 			<name>Fleeting Starlight Calls Love</name>
 			<text>When this creature enters, put a +1/+1 counter on up to two other target creatures. They gain lifelink until end of turn.
 Evoke {W}{W} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/133.png" num="7">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/133.png" num="6">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2331,7 +2329,7 @@ Evoke {W}{W} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 			<name>Moments Before Skycrash</name>
 			<text>Look at the top X cards of your library, where X is the amount of mana spent to cast this spell. Put up to three of them into your hand and the rest on the bottom of your library in a random order.
 Miracle {U}{U} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/134.png" num="16">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/134.png" num="15">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2347,14 +2345,14 @@ Miracle {U}{U} (You may cast this card for its miracle cost when you draw it if 
 			<name>Planeshard Shot</name>
 			<text>Sneak {B}{B} (You may cast this spell for {B}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)
 Destroy target creature or Manifestation. Then if less than seven mana was spent to cast this spell, you lose 3 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/135.png" num="17">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/135.png" num="16">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>7</manacost>
-				<cmc>7</cmc>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
@@ -2362,8 +2360,8 @@ Destroy target creature or Manifestation. Then if less than seven mana was spent
 		<card>
 			<name>Incendiary Passion Burns Gold</name>
 			<text>When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
-Warp {R}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/136.png" num="8">ECB</set>
+Warp {R}{R} (You may cast this card from your hand for {R}{R}. Exile this creature at the beginning of the next end step. You may cast it from exile on a later turn.)</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/136.png" num="7">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2378,9 +2376,9 @@ Warp {R}{R} (You may cast this card from your hand for its warp cost. Exile this
 		</card>
 		<card>
 			<name>Kind Souls Witness Strife</name>
-			<text>Spectacle {G}{G} (You may cast this spell for its spectacle cost if an opponent lost life this turn.)
+			<text>Spectacle {G}{G} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Return target permanent card from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/137.png" num="11">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/137.png" num="10">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2411,7 +2409,7 @@ Return target permanent card from your graveyard to your hand.</text>
 			<name>Tapping Glass Holds No Joy</name>
 			<text>When this Manifestation enters, destroy up to one target noncreature artifact or enchantment.
 {2}{W}{W}: Up to one target creature you control gets +1/+0 until end of turn. This Manifestation becomes an enchantment creature. Activate only once and only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/139.png" num="33">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/139.png" num="32">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2428,13 +2426,13 @@ Return target permanent card from your graveyard to your hand.</text>
 		<card>
 			<name>Form of a Newborn Star</name>
 			<text>Choose a nonbasic card name. Search target opponent&apos;s graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles. You lose 1 life for each card exiled this way.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/140.png" num="51">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/140.png" num="50">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3B</manacost>
+				<manacost>2BB</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -2445,7 +2443,7 @@ Return target permanent card from your graveyard to your hand.</text>
 			<name>Rise From the Void</name>
 			<text>Double target creature&apos;s power and toughness until end of turn.
 Basic landcycling {G} ({G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/141.png" num="85">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/141.png" num="84">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2507,6 +2505,86 @@ Mill three cards, then create a 1/1 colorless Avatar creature token for each cre
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Spotless Threshold</name>
+			<text>{T}: Add {C}.
+{T}: Add {R} or {W}. Activate only if you control a Mountain or Plains.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/145.png" num="123">ECB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Starlit Confluence</name>
+			<text>{T}: Add {C}.
+{T}: Add {W} or {B}. Activate only if you control a Plains or Swamp.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/146.png" num="124">ECB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Subterranean Artery</name>
+			<text>{T}: Add {C}.
+{T}: Add {B} or {G}. Activate only if you control a Swamp or Forest.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/147.png" num="125">ECB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Auroral Icefield</name>
+			<text>{T}: Add {C}.
+{T}: Add {G} or {U}. Activate only if you control a Forest or Island.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/148.png" num="108">ECB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Decrepit Holding Bay</name>
+			<text>{T}: Add {C}.
+{T}: Add {U} or {R}. Activate only if you control an Island or Mountain.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/149.png" num="112">ECB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

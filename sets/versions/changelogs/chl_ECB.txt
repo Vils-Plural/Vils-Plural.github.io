@@ -1,4 +1,85 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Spotless Threshold added.
+Starlit Confluence added.
+Subterranean Artery added.
+Auroral Icefield added.
+Decrepit Holding Bay added.
+
+
+Final Altar For Dreaming
+type: Enchantment — Aura => Artifact
+cost: {C}{C} => {2}
+rules_text: Flash
+Enchant creature
+When this enchantment enters, prevent all combat damage that would be dealt this turn.
+Enchanted creature gets +2/+1 => When this artifact enters, draw a card.
+{X}, {T}: Add X {C}.
+{2}{C}, {T}: Draw a card, then discard a card.
+
+Everything and Nothing
+rules_text: Lifelink, vigilance
+{T}: Add {C}.
+[i]Beyond[/i] — {C}{C}{C}: This land becomes a 3/3 creature. Activate only if you control three or more enchantments. [i](It's still a land.)[/i] => {T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Activate only if you control a permanent with {C} in its mana cost.
+
+Repurpose Nothing
+rules_text: Exile target creature. Its controller creates a 2/2 colorless Manifestation enchantment token with “{3}: This token becomes an enchantment creature.” => Exile target creature. Its controller creates a 2/2 colorless Manifestation enchantment token with “{2}{C}: This token becomes an enchantment creature.”
+
+Loud Twins Cannot Speak
+rules_text: When this creature enters, you may search your library for a card, exile it face down, then shuffle.
+When this creature dies, put the card exiled by it into your hand.
+{4}{C}, Sacrifice this creature: Add four mana in any combination of colors. => When this creature enters, you may search your library for a card, exile it face down, then shuffle.
+When this creature dies, put the card exiled by it into your hand.
+{3}{C}, Sacrifice this creature: Add four mana in any combination of colors.
+
+Conflict Brings Peace
+rules_text: Look at target opponent's hand. You choose a card from it. That player discards that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.” => Look at target opponent's hand. You choose a nonbasic card from it. That player discards that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+
+What Mourns for You
+cost: {1} => {C}
+pt: 2/4 => 3/4
+
+Plans of a Fallen Empire
+pt: 3/3 => 5/3
+
+TRANCE, Stellar Wanderer
+rules_text: {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way. => {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled.
+special_text: {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way. => {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled.
+
+Banishing Light
+
+Planeshard Shot
+cost: {7} => {6}
+
+Incendiary Passion Burns Gold
+rules_text: When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] => When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for {R}{R}. Exile this creature at the beginning of the next end step. You may cast it from exile on a later turn.)[/i]
+
+Kind Souls Witness Strife
+rules_text: Spectacle {G}{G} [i](You may cast this spell for its spectacle cost if an opponent lost life this turn.)[/i]
+Return target permanent card from your graveyard to your hand. => Spectacle {G}{G} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Return target permanent card from your graveyard to your hand.
+
+Form of a Newborn Star
+cost: {3}{B} => {2}{B}{B}
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
