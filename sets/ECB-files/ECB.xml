@@ -2376,7 +2376,7 @@ Warp {R}{R} (You may cast this card from your hand for {R}{R}. Exile this creatu
 		</card>
 		<card>
 			<name>Kind Souls Witness Strife</name>
-			<text>Spectacle {G}{G} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+			<text>Spectacle {G}{G} (You may cast this spell for its spectacle cost if an opponent lost life this turn.)
 Return target permanent card from your graveyard to your hand.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/137.png" num="10">ECB</set>
 			<prop>

@@ -1,4 +1,15 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Kind Souls Witness Strife
+rules_text: Spectacle {G}{G} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Return target permanent card from your graveyard to your hand. => Spectacle {G}{G} [i](You may cast this spell for its spectacle cost if an opponent lost life this turn.)[/i]
+Return target permanent card from your graveyard to your hand.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Spotless Threshold added.

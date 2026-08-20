@@ -3159,7 +3159,7 @@
             "number": 10,
             "color_identity": "G",
             "cost": "{5}",
-            "rules_text": "Spectacle {G}{G} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]\nReturn target permanent card from your graveyard to your hand.",
+            "rules_text": "Spectacle {G}{G} [i](You may cast this spell for its spectacle cost if an opponent lost life this turn.)[/i]\nReturn target permanent card from your graveyard to your hand.",
             "flavor_text": "[i]What anomalies think is never a question, though it likely should be asked more.[/i]",
             "pt": "",
             "special_text": "",
