@@ -1,4 +1,22 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Everything and Nothing
+rules_text: {T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Activate only if you control a permanent with {C} in its mana cost. => This land enters tapped.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.
+
+Manifestation
+
+Unending Research
+
+Rot Research
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

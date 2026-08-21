@@ -792,7 +792,7 @@
             "number": 116,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Activate only if you control a permanent with {C} in its mana cost.",
+            "rules_text": "This land enters tapped.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color.",
             "flavor_text": "[i]This is the beginning. This is the source of all that love Elnyreth, and all that love you.[/i]",
             "pt": "",
             "special_text": "",
@@ -803,7 +803,7 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "Incomprehensible Gift",
@@ -2908,7 +2908,7 @@
         {
             "card_name": "Manifestation",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "common",
             "type": "Token Enchantment \u2014 Manifestation",
             "number": 7,
             "color_identity": "C",
@@ -2992,7 +2992,7 @@
         {
             "card_name": "Unending Research",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "common",
             "type": "Token \u2014 Research",
             "number": 13,
             "color_identity": "C",
@@ -3013,7 +3013,7 @@
         {
             "card_name": "Rot Research",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "common",
             "type": "Token \u2014 Research",
             "number": 12,
             "color_identity": "C",

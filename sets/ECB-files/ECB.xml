@@ -5,7 +5,7 @@
 			<name>ECB</name>
 			<longname>Elnyreth: Contact With Those Beyond</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-19</releasedate>
+			<releasedate>2026-08-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -674,8 +674,9 @@ When this Class becomes level 3, search your library for a land that could produ
 		</card>
 		<card>
 			<name>Everything and Nothing</name>
-			<text>{T}: Add {C}.
-{T}, Pay 1 life: Add one mana of any color. Activate only if you control a permanent with {C} in its mana cost.</text>
+			<text>This land enters tapped.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/37.png" num="116">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -686,6 +687,7 @@ When this Class becomes level 3, search your library for a land that could produ
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Incomprehensible Gift</name>
@@ -2393,7 +2395,7 @@ Return target permanent card from your graveyard to your hand.</text>
 		<card>
 			<name>Manifestation ECB</name>
 			<text>{3}: This token becomes an enchantment creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/138.png" num="7">ECB</set>
+			<set rarity="common" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/138.png" num="7">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2460,7 +2462,7 @@ Basic landcycling {G} ({G}, Discard this card: Search your library for a basic l
 			<name>Unending Research ECB</name>
 			<text>(Apply this effect to your next cast pool of research.)
 Return up to one creature card from your graveyard to the battlefield.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/142.png" num="13">ECB</set>
+			<set rarity="common" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/142.png" num="13">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2476,7 +2478,7 @@ Return up to one creature card from your graveyard to the battlefield.</text>
 			<name>Rot Research ECB</name>
 			<text>(Apply this effect to your next cast pool of research.)
 Mill three cards, then create a 1/1 colorless Avatar creature token for each creature card in your graveyard.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/143.png" num="12">ECB</set>
+			<set rarity="common" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/143.png" num="12">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
