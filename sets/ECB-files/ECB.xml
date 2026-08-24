@@ -5,7 +5,7 @@
 			<name>ECB</name>
 			<longname>Elnyreth: Contact With Those Beyond</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-20</releasedate>
+			<releasedate>2026-08-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -614,8 +614,8 @@ At the beginning of combat during your turn, if you spent six or more mana to ca
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
+				<manacost>C</manacost>
+				<cmc>1</cmc>
 				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
@@ -713,7 +713,7 @@ Infusion — At the beginning of your end step, scry 2. Then if you gained life 
 				<side>front</side>
 				<type>Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>1C</manacost>
+				<manacost>2</manacost>
 				<cmc>2</cmc>
 				<pt>2/2</pt>
 			</prop>
@@ -823,30 +823,30 @@ Colorless spells and spells you cast from outside your hand cost {C}{C} (or {2})
 			<name>Loud Twins Cannot Speak</name>
 			<text>When this creature enters, you may search your library for a card, exile it face down, then shuffle.
 When this creature dies, put the card exiled by it into your hand.
-{3}{C}, Sacrifice this creature: Add four mana in any combination of colors.</text>
+{1}{C}, Sacrifice this creature: Add two mana in any combination of colors.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/46.png" num="13">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>2C</manacost>
-				<cmc>3</cmc>
-				<pt>4/2</pt>
+				<manacost>1C</manacost>
+				<cmc>2</cmc>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Conflict Brings Peace</name>
-			<text>Look at target opponent&apos;s hand. You choose a nonbasic card from it. That player discards that card and creates a tapped colorless basic land token named Connection with &quot;{T}: Add {C}.&quot;</text>
+			<text>Look at target opponent&apos;s hand. You choose a noncreature nonbasic card from it. That player exiles that card and creates a tapped colorless basic land token named Connection with &quot;{T}: Add {C}.&quot;</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/47.png" num="2">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1C</manacost>
-				<cmc>2</cmc>
+				<manacost>C</manacost>
+				<cmc>1</cmc>
 			</prop>
 			<tablerow>3</tablerow>
 			<related count="1">Connection</related>
@@ -870,7 +870,7 @@ When this creature dies, put the card exiled by it into your hand.
 		<card>
 			<name>What Mourns for You</name>
 			<text>As long as a nontoken creature has died this turn, this Manifestation is an enchantment creature.
-Whenever this Manifestation enters or attacks, exile up to one target card from a graveyard and you gain 1 life.</text>
+Whenever this Manifestation enters or attacks, exile up to two target cards from a graveyard and you gain 2 life.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/49.png" num="21">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -930,9 +930,9 @@ When this Manifestation dies, if it isn&apos;t a creature, return it to the batt
 				<side>front</side>
 				<type>Enchantment — Manifestation</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1C</manacost>
-				<cmc>2</cmc>
-				<pt>5/3</pt>
+				<manacost>C</manacost>
+				<cmc>1</cmc>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -1070,7 +1070,7 @@ Whenever this creature deals combat damage to a player, add &quot;You may draw a
 				<side>front</side>
 				<type>Creature — Avatar Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost>1RR</manacost>
+				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -1952,7 +1952,7 @@ At the beginning of your end step, if this creature is tapped, untap up to one o
 		<card>
 			<name>Heartland Recidivist</name>
 			<text>This creature has first strike as long as it&apos;s attacking.
-Whenever you spend {C}{C} to cast a spell, this creature gets +1/+0 until end of turn.</text>
+Whenever you cast a spell, if {C}{C} was spent to cast it, this creature gets +2/+0 and gains trample until end of turn.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/112.png" num="90">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2003,7 +2003,7 @@ Vigilance</text>
 		</card>
 		<card>
 			<name>VERITY, Collapse Observer</name>
-			<text>Vigilance, trample, hexproof
+			<text>First strike, trample, hexproof
 VERITY can&apos;t attack or block unless you control six or more lands that could produce {C}.
 {2}{R}{G}: Mill two cards. You may play them this turn. You may play an additional land this turn.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/115.png" num="104">ECB</set>

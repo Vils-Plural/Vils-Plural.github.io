@@ -1,4 +1,55 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Elnyreth Loves You
+cost: {2} => {C}
+
+Insects Eat Spiders
+cost: {1}{C} => {2}
+
+Leafless Boughs Grant Shade
+
+Loud Twins Cannot Speak
+cost: {2}{C} => {1}{C}
+rules_text: When this creature enters, you may search your library for a card, exile it face down, then shuffle.
+When this creature dies, put the card exiled by it into your hand.
+{3}{C}, Sacrifice this creature: Add four mana in any combination of colors. => When this creature enters, you may search your library for a card, exile it face down, then shuffle.
+When this creature dies, put the card exiled by it into your hand.
+{1}{C}, Sacrifice this creature: Add two mana in any combination of colors.
+pt: 4/2 => 3/1
+
+Conflict Brings Peace
+cost: {1}{C} => {C}
+rules_text: Look at target opponent's hand. You choose a nonbasic card from it. That player discards that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.” => Look at target opponent's hand. You choose a noncreature nonbasic card from it. That player exiles that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+
+What Mourns for You
+rules_text: As long as a nontoken creature has died this turn, this Manifestation is an enchantment creature.
+Whenever this Manifestation enters or attacks, exile up to one target card from a graveyard and you gain 1 life. => As long as a nontoken creature has died this turn, this Manifestation is an enchantment creature.
+Whenever this Manifestation enters or attacks, exile up to two target cards from a graveyard and you gain 2 life.
+
+Plans of a Fallen Empire
+cost: {1}{C} => {C}
+pt: 5/3 => 3/3
+
+Innovation Emissary
+cost: {1}{R}{R} => {2}{R}
+
+Heartland Recidivist
+rules_text: This creature has first strike as long as it's attacking.
+Whenever you spend {C}{C} to cast a spell, this creature gets +1/+0 until end of turn. => This creature has first strike as long as it's attacking.
+Whenever you cast a spell, if {C}{C} was spent to cast it, this creature gets +2/+0 and gains trample until end of turn.
+
+VERITY, Collapse Observer
+rules_text: Vigilance, trample, hexproof
+VERITY can't attack or block unless you control six or more lands that could produce {C}.
+{2}{R}{G}: Mill two cards. You may play them this turn. You may play an additional land this turn. => First strike, trample, hexproof
+VERITY can't attack or block unless you control six or more lands that could produce {C}.
+{2}{R}{G}: Mill two cards. You may play them this turn. You may play an additional land this turn.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 
