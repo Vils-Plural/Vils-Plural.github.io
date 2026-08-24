@@ -2346,15 +2346,15 @@ Miracle {U}{U} (You may cast this card for its miracle cost when you draw it if 
 		<card>
 			<name>Planeshard Shot</name>
 			<text>Sneak {B}{B} (You may cast this spell for {B}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)
-Destroy target creature or Manifestation. Then if less than seven mana was spent to cast this spell, you lose 3 life.</text>
+Destroy target creature or Manifestation. Then if less than five mana was spent to cast this spell, you lose 3 life.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/135.png" num="16">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>6</manacost>
-				<cmc>6</cmc>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>

@@ -1,4 +1,16 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Planeshard Shot
+cost: {6} => {5}
+rules_text: Sneak {B}{B} [i](You may cast this spell for {B}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Destroy target creature or Manifestation. Then if less than seven mana was spent to cast this spell, you lose 3 life. => Sneak {B}{B} [i](You may cast this spell for {B}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Destroy target creature or Manifestation. Then if less than five mana was spent to cast this spell, you lose 3 life.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 No changes.
