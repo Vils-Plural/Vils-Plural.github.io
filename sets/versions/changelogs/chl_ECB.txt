@@ -1,4 +1,461 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Madine, Forlorn Perissian added.
+Fading Hope added.
+
+Perissine, Forlorn Figment removed.
+Essence Scatter removed.
+
+Deepdive Outwalker
+
+Knowledge Emissary
+rules_text: First strike, vigilance
+When this creature enters, if {C}{C} was spent to cast it, scry 2, then draw a card. => Momentum [i](This creature deals combat damage first as long as it's attacking.)[/i]
+When this creature enters, if {C} was spent to cast it, draw a card.
+pt: 2/3 => 3/2
+
+Hermit Emissary
+cost: {4}{U}{U} => {2}{U}
+rules_text: Flying
+When this creature enters, if {C}{C}{C} was spent to cast it, take an extra beginning phase after this phase. [i](The beginning phase includes the untap, upkeep, and draw steps.)[/i] => Flying
+When this creature enters, if {C}{C} was spent to cast it, you may choose a noncreature card you own from outside the game, reveal it, and put it into your hand.
+pt: 3/5 => 2/2
+
+Plunge From Itself
+rules_text: [i]Beyond[/i] — As an additional cost to cast this spell, discard a card unless you control three or more enchantments.
+Destroy target creature or Manifestation. => [i]Beyond[/i] — As an additional cost to cast this spell, discard a card unless you control three or more enchantments.
+Destroy target creature, planeswalker, or Manifestation.
+
+Final Altar For Dreaming
+rules_text: When this artifact enters, draw a card.
+{X}, {T}: Add X {C}.
+{2}{C}, {T}: Draw a card, then discard a card. => When this artifact enters, you may draw a card. If you do, discard a card.
+{X}, {T}: Add X {C}.
+{2}{C}, {T}: Draw a card, then discard a card.
+
+Cosmic Metamorphosis
+
+Instructor Emissary
+rules_text: Trample, haste
+When this creature enters, if {C}{C}{C} was spent to cast it, other creatures you control get +3/+0 and gain trample and haste until end of turn. => Trample, haste
+When this creature enters, if {C}{C} was spent to cast it, other creatures you control get +3/+0 and gain trample and haste until end of turn.
+
+Forest's Love Finds Root
+rules_text: Target creature gains hexproof, trample, and reach until end of turn.
+Add “Up to one creature you control gains indestructible and trample until end of turn.” to your next pool of research [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => Target creature gains hexproof, trample, and reach until end of turn. Put a +1/+1 counter on it.
+Add “Put a hexproof counter on up to one creature you control.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Planned Disturbance
+
+Scintillate Away
+rules_text: This spell can't be countered.
+Target creature or Manifestation's owner puts it on the bottom of their library. => This spell can't be countered.
+Target creature, or planeswalker's owner puts it on the bottom of their library.
+
+Hours to Oblivion
+rules_text: If your deck has twenty or fewer cards in it when you cast this spell, copy this spell. You may choose new targets for the copy.
+Exile target creature, artifact, or Manifestation. Its controller loses 2 life. => If your deck has twenty or fewer cards in it when you cast this spell, copy it. You may choose new targets for the copy.
+Exile target artifact, creature, or Manifestation. Its controller loses 2 life.
+
+Experimental Smasher
+rules_text: Trample
+When this creature enters, it deals 3 damage divided as you choose among two or more targets. => Trample
+When this creature enters, it deals 3 damage divided as you choose among two or three targets.
+
+Unlikely Souls Know Rest
+rules_text: Search your library for a land card and a basic land card, reveal them, put them into your hand, then shuffle. If an opponent controls more lands than you, you may play an additional land this turn. => Search your library for a land card and a basic land card, reveal them, put them into your hand, then shuffle. Then if an opponent controls more lands than you, you may play an additional land this turn and you gain 2 life.
+
+In Stars' Wake
+type: Sorcery => Instant
+rules_text: Choose one —
+• This spell deals 6 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead. You gain 3 life.
+• Each creature deals damage equal to its power to itself. => Choose one —
+• This spell deals 6 damage to any nonplayer target. If that permanent would die this turn, exile it instead.
+• Creatures you control get +2/+0 and gain trample until end of turn.
+
+Captured Paradox
+rules_text: Whenever you cast a spell, if {C}{C} was spent to cast it, put a +1/+1 counter on this Manifestation and draw a card.
+At the beginning of combat during your turn, if this Manifestation has five or more +1/+1 counters on it and isn't a creature, it becomes an enchantment creature. => Whenever you cast a spell, if {C} was spent to cast it, put a +1/+1 counter on this Manifestation and draw a card.
+At the beginning of combat during your turn, if this Manifestation has five or more +1/+1 counters on it and isn't a creature, it becomes an enchantment creature.
+
+Redline Disruptor
+
+Obliteration Emissary
+pt: 2/2 => 3/2
+
+Adorned Deathknell
+
+Dark Fronds Foster Mystery
+
+Elnyreth Loves You
+type: Sorcery => Instant
+cost: {C} => {2}
+rules_text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}, Exile this card from your graveyard: You gain 10 life. Each opponent's life total becomes 5. => Search your library for a basic land card or a card that could produce {C}, reveal it, put it into your hand, then shuffle.
+
+Beacons of the Unknown
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{1}, {T}: Level 2
+{T}, Pay 1 life: Add one mana of any color.
+{2}{C}, {T}: Level 3
+When this Class becomes level 3, search your library for a land that could produce {C}, put it onto the battlefield tapped, then shuffle. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{1}, {T}: Level 2
+{T}, Pay 1 life: Add one mana of any color.
+{2}{C}, {T}: Level 3
+When this Class becomes level 3, search your library for a land that could produce {C}, put it onto the battlefield tapped, then shuffle.
+
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{1}, {T}: Level 2
+{T}, Pay 1 life: Add one mana of any color.
+{2}{C}, {T}: Level 3
+When this Class becomes level 3, search your library for a land that could produce {C}, put it onto the battlefield tapped, then shuffle. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {C}.
+{1}, {T}: Level 2
+{T}, Pay 1 life: Add one mana of any color.
+{2}{C}, {T}: Level 3
+When this Class becomes level 3, search your library for a land that could produce {C}, put it onto the battlefield tapped, then shuffle.
+
+
+The Heart of Elnyreth
+
+Everything and Nothing
+rules_text: This land enters tapped.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. => {T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast an enchantment spell.
+
+Incomprehensible Gift
+cost: {X}{1}{C} => {X}{C}{C}
+
+Insects Eat Spiders
+
+Leafless Boughs Grant Shade
+
+Lone Souls Wish Best
+
+Spring Blooms in Winter Snow
+
+Nerixim, Cursed Stranger
+cost: {4}{U}{U} => {3}{U}
+rules_text: Flying, vigilance
+Colorless spells and spells you cast from outside your hand cost {C}{C} [i](or {2})[/i] less to cast.
+{5}{U}{U}, {T}, Exile Nerixim: Shuffle your hand and graveyard into your library, then draw seven cards. => Flying
+Whenever Nerixim becomes tapped, you may exile a nonland card from your hand. You may cast that card for as long as it remains exiled, and it costs {2} less to cast.
+pt: 4/5 => 2/4
+
+Repurpose Nothing
+cost: {2}{C} => {1}{C}
+rules_text: Exile target creature. Its controller creates a 2/2 colorless Manifestation enchantment token with “{2}{C}: This token becomes an enchantment creature.” => Exile target creature or planeswalker. Its controller creates a 2/2 colorless Manifestation enchantment token with “{2}: This token becomes an enchantment creature.”
+
+Fresh Sprawl Gives Life
+cost: {2}{G}{G} => {3}{G}{G}
+
+Loud Twins Cannot Speak
+cost: {1}{C} => {2}{C}
+rules_text: When this creature enters, you may search your library for a card, exile it face down, then shuffle.
+When this creature dies, put the card exiled by it into your hand.
+{1}{C}, Sacrifice this creature: Add two mana in any combination of colors. => When this creature enters, you may exile another creature you control until this creature leaves the battlefield. If you do, this creature becomes a copy of it, except it's a 3/3 colorless Avatar in addition to its other types.
+pt: 3/1 => 3/3
+
+Conflict Brings Peace
+
+Beauty Holds Divine Right
+
+What Mourns for You
+pt: 3/4 => 3/1
+
+Burn from Within
+
+Plans of a Fallen Empire
+
+Weave Stones to Stars
+
+Meeting to Understand
+type: Instant => Sorcery
+rules_text: Scry 1, then draw two cards. => Draw three cards, then put a card from your hand on the top or bottom of your library.
+
+Masterminds Know All
+rules_text: Menace
+Whenever an opponent loses 2 or more life, you may sacrifice this creature. If you do, draw a card and you gain 2 life. => Menace
+Whenever an opponent loses 2 or more life, you may sacrifice this creature. If you do, draw a card and you gain 1 life.
+
+Mechanized Origin
+rules_text: Whenever this enchantment enters or you cast a spell with mana value 5 or greater, choose one —
+• Exile the top card of your library. You may play it during your next turn.
+• This enchantment deals 3 damage to each opponent. => Whenever this enchantment enters or you cast a spell with mana value 5 or greater, choose one —
+• Exile the top card of your library. You may play it until the end of your next turn.
+• Mechanized Origin deals 3 damage to each opponent.
+
+Cosmic Nibbler
+
+Information Carver
+type: Creature — Najmat Soldier => Creature — Najmat Rogue
+rules_text: Menace
+Whenever this creature deals combat damage to a player, add “You may draw a card and lose 1 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => Menace
+Whenever this creature deals combat damage to a player, add “You draw a card and lose 1 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Innovation Emissary
+rules_text: Whenever you cast a noncreature spell with mana value 5 or greater, exile the top card of your library. You may play it this turn. If {C}{C}{C} was spent to cast that spell, you may play the exiled card without paying its mana cost. => Whenever you cast a noncreature spell with mana value 5 or greater, exile the top card of your library. You may play it this turn. If {C}{C} was spent to cast that spell, you may play the exiled card without paying its mana cost.
+
+Notions of Voracity
+
+The Grand Expedition
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a Treasure token and a 2/2 colorless Avatar creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a Treasure token and a 1/1 colorless Avatar creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a Treasure token and a 2/2 colorless Avatar creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a Treasure token and a 1/1 colorless Avatar creature token.
+
+Ecclesia, Interplanar Leech
+
+To Teach Medicine
+
+Finding the First Emissary
+
+Crucible Blaze
+
+So Close Yet So Far
+
+Elementary Interception
+rules_text: Counter target enchantment spell.
+Cycling {2} => Counter target enchantment spell.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+
+Plea for Silence
+
+Erosion May Break You
+rules_text: Choose one —
+• Exile up to two target cards from a single graveyard. You gain 3 life.
+• Destroy target enchantment.
+• Destroy target creature with flying.
+• Draw a card. => Choose one —
+• Exile up to two target cards from a single graveyard. You gain 2 life.
+• Destroy target creature with flying.
+• Draw a card. You may put a land card from your hand onto the battlefield tapped.
+
+Visions of Tenfold Spires
+
+Visions of Erudite Histories
+
+Visions of Cursed Seas
+
+Visions of Myriad Realms
+
+Visions of Restless Earth
+
+Crystallized Institute
+
+Crumbling Expanse
+
+Forgotten Colony
+
+Wild Dreamlands
+
+Multispace Labs
+
+Engine Room
+
+Dimensional Singularity
+
+Eroded Edifice
+
+Abandoned Observation Bay
+
+Slumbering Peaks
+
+Forest's Love Research
+rules_text: [i](Apply this effect to your next cast pool of research.)[/i]
+Up to one creature you control gains indestructible and trample until end of turn. => [i](Apply this effect to your next cast pool of research.)[/i]
+Put a hexproof counter on up to one creature you control.
+
+Medicine Research
+
+Outwalker Research
+
+Avatar
+
+Forefront Research
+
+Pulse Research
+
+Carver Research
+rules_text: [i](Apply this effect to your cast next pool of research.)[/i]
+You may draw a card and lose 1 life. => [i](Apply this effect to your cast next pool of research.)[/i]
+You draw a card and lose 1 life.
+
+Bodyguard Research
+
+Outlands Research
+
+Disturbance Research
+
+Pool of Research
+
+Pour Into Itself
+
+Sudden Rot Begets Wisdom
+type: Sorcery => Instant
+
+Notions of Unending Threat
+cost: {2}{B}{R} => {1}{B}{R}
+
+Illusion
+
+Beyond Home
+rules_text: When this enchantment enters or at the beginning of your upkeep, exile the top card of your library face down. You may look at those cards for as long as they remain exiled.
+{2}{B}, Pay X life, Sacrifice this enchantment: Put X cards exiled by this enchantment into your hand. Activate only as a sorcery. => Whenever this enchantment enters or at the beginning of your upkeep, exile the top card of your library face down. You may look at it for as long as it remains exiled.
+{2}{B}, Pay X life, Sacrifice this enchantment: Put X cards exiled by this enchantment into your hand. Activate only as a sorcery.
+
+One's Mind Holds Breath
+rules_text: Flying
+Whenever one or more creatures you control deal combat damage to a player, draw a card.
+At the beginning of your end step, if you have seven or more cards in your hand, this Manifestation becomes an enchantment creature. => Flying
+Whenever one or more creatures you control deal combat damage to a player, draw a card.
+At the beginning of your upkeep, if you have seven or more cards in your hand, this Manifestation becomes an enchantment creature.
+
+Comforting Counsel
+
+Disaster Stabilization
+
+Pyroclasm
+
+Laboratory Overseer
+
+Channel the Lightless Sun
+
+Voidtwisted Forgiven
+cost: {1}{G}{W} => {G}{W}
+rules_text: As an additional cost to cast this spell, tap five untapped permanents you control.
+Trample, reach
+At the beginning of your end step, if this creature is tapped, untap up to one other permanent you control. => As an additional cost to cast this spell, tap four untapped artifacts, creatures, or lands you control.
+Trample, reach
+At the beginning of your end step, if this creature is tapped, untap up to one other permanent you control.
+
+Heartland Recidivist
+type: Creature — Najmat Rogue => Creature — Najmat Rebel
+rules_text: This creature has first strike as long as it's attacking.
+Whenever you cast a spell, if {C}{C} was spent to cast it, this creature gets +2/+0 and gains trample until end of turn. => Momentum [i](This creature deals combat damage first as long as it's attacking.)[/i]
+Whenever you cast a spell, if {C} was spent to cast it, this creature gets +1/+0 until end of turn.
+
+Apathy Loves Company
+
+Gazes Back
+cost: {U}{B} => {2}{U}{B}
+rules_text: Return target creature or planeswalker to its owner's hand. That player loses life equal to its mana value. => Draw two cards, then discard a card. When you do, exile up to one target instant or sorcery card from your graveyard with mana value 2 or less and copy it. You may cast the copy without paying its mana cost.
+
+VERITY, Collapse Observer
+type: Legendary Creature — Najmat Wizard => Legendary Creature — Najmat Scout
+rules_text: First strike, trample, hexproof
+VERITY can't attack or block unless you control six or more lands that could produce {C}.
+{2}{R}{G}: Mill two cards. You may play them this turn. You may play an additional land this turn. => Trample, hexproof
+VERITY can't attack or block unless you control six or more lands that could produce {C}.
+{2}{R}{G}: Mill two cards. You may play them this turn. You may play an additional land this turn.
+pt: 4/2 => 4/4
+
+Angel
+
+Negate
+
+Day of Judgment
+
+Banishing Light
+
+Decrepit Wings Find No Rest
+rules_text: Creatures you control have trample.
+Whenever you attack with three or more creatures, if this Manifestation isn't a creature, exile it, then return it to the battlefield under your control. It's a tapped and attacking enchantment creature. => Creatures you control have trample and haste.
+Whenever you attack with three or more creatures, if this Manifestation isn't a creature, exile it, then return it to the battlefield under your control. It's a tapped and attacking enchantment creature.
+
+Burst Lightning
+
+Inscription of Abundance
+
+A New Beginning
+rules_text: At the beginning of your upkeep, create a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+{5}{C}{C}{C}: Create a 1/1 colorless Avatar creature token and a 4/2 Najmat creature token that's all colors. Activate only as a sorcery. => At the beginning of your upkeep, create a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+{7}{C}: Create a 1/1 colorless Avatar creature token and a 4/2 Najmat creature token that's all colors. Activate only as a sorcery.
+
+Foolish Fate
+
+Extinguish All Hope
+
+Cryogen Relic
+
+Dawn of Hope
+
+Stargaze
+
+Full Throttle
+
+Ecological Appreciation
+
+Najmat
+
+Fleeting Starlight Calls Love
+
+Moments Before Skycrash
+
+Planeshard Shot
+rules_text: Sneak {B}{B} [i](You may cast this spell for {B}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Destroy target creature or Manifestation. Then if less than five mana was spent to cast this spell, you lose 3 life. => Sneak {B}{B} [i](You may cast this spell for {B}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)[/i]
+Destroy target creature or Manifestation.
+
+Incendiary Passion Burns Gold
+rules_text: When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for {R}{R}. Exile this creature at the beginning of the next end step. You may cast it from exile on a later turn.)[/i] => When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for {R}{R}. Exile this creature at the beginning of the next end step. You may cast it from exile on a later turn.)[/i]
+
+Kind Souls Witness Strife
+cost: {5} => {4}
+
+Manifestation
+
+Tapping Glass Holds No Joy
+
+Form of a Newborn Star
+rules_text: Choose a nonbasic card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles. You lose 1 life for each card exiled this way. => Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles. You lose 1 life for each card exiled this way.
+
+Rise From the Void
+
+Unending Research
+
+Rot Research
+
+Soldier
+
+Spotless Threshold
+
+Starlit Confluence
+
+Subterranean Artery
+
+Auroral Icefield
+
+Decrepit Holding Bay
+
+Doctor Aeon
+
+TRANCE, Stellar Wanderer
+
+Len, Cosmic Emissary
+cost: {2}{C}{C}{B} => {2}{C}{B}
+
+El Ior, Planar Whisperer
+
+
+VERSION 16 CHANGELOG
 ====================
 
 
