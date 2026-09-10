@@ -5,7 +5,7 @@
 			<name>ECB</name>
 			<longname>Elnyreth: Contact With Those Beyond</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-06</releasedate>
+			<releasedate>2026-09-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -50,7 +50,7 @@ When this creature enters, choose one —
 		</card>
 		<card>
 			<name>Outwalker Antiquarian</name>
-			<text>When this creature enters, add &quot;Create three 1/1 colorless Avatar creature tokens.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+			<text>When this creature enters, add &quot;Create three 1/1 colorless Avatar creature tokens&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/2.png" num="29">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -71,7 +71,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Forefront Inquisitive</name>
 			<text>Vigilance
-Whenever this creature attacks, add &quot;Draw a card, then discard a card.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+Whenever this creature attacks, add &quot;Draw a card, then discard a card&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/3.png" num="41">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -127,7 +127,7 @@ When this creature enters, if {C}{C} was spent to cast it, you may choose a nonc
 		<card>
 			<name>Research Bodyguard</name>
 			<text>When this creature enters or dies, each opponent loses 2 life and you gain 2 life.
-Whenever another creature dies, add &quot;Each opponent loses 2 life and you gain 2 life.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+Whenever another creature dies, add &quot;Each opponent loses 2 life and you gain 2 life&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/6.png" num="57">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -146,7 +146,7 @@ Whenever another creature dies, add &quot;Each opponent loses 2 life and you gai
 		</card>
 		<card>
 			<name>Gift of a Pulse</name>
-			<text>When this enchantment enters, draw two cards and you lose 2 life. Add &quot;Up to one Manifestation you control becomes an enchantment creature.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+			<text>When this enchantment enters, draw two cards and you lose 2 life. Add &quot;Up to one Manifestation you control becomes an enchantment creature&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/7.png" num="51">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -283,7 +283,7 @@ Whenever an opponent gains life or a nonbasic land enters under an opponent&apos
 		<card>
 			<name>Forest&apos;s Love Finds Root</name>
 			<text>Target creature gains hexproof, trample, and reach until end of turn. Put a +1/+1 counter on it.
-Add &quot;Put a hexproof counter on up to one creature you control.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+Add &quot;Put a hexproof counter on up to one creature you control&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/15.png" num="78">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -320,7 +320,7 @@ Whenever this creature deals combat damage to a player, you may cast a copy of y
 		<card>
 			<name>Outlands Investigator</name>
 			<text>Vigilance
-When this creature enters, add &quot;Search your library for a land card, put it onto the battlefield tapped, then shuffle.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+When this creature enters, add &quot;Search your library for a land card, put it onto the battlefield tapped, then shuffle&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/17.png" num="83">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -341,7 +341,7 @@ When this creature enters, add &quot;Search your library for a land card, put it
 			<name>Planned Disturbance</name>
 			<text>Scry 2. For each card put on the bottom of your library this way, you gain 1 life.
 Draw a card.
-Add &quot;Scry 2, then draw a card.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+Add &quot;Scry 2, then draw a card&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/18.png" num="96">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -979,7 +979,7 @@ Flying, ward {2}
 		<card>
 			<name>Information Carver</name>
 			<text>Menace
-Whenever this creature deals combat damage to a player, add &quot;You draw a card and lose 1 life.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+Whenever this creature deals combat damage to a player, add &quot;You draw a card and lose 1 life&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/56.png" num="52">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1050,6 +1050,7 @@ III — Create a Treasure token and a 1/1 colorless Avatar creature token.</text
 			</prop>
 			<tablerow>0</tablerow>
 			<related count="1">Avatar</related>
+			<related count="1"> Treasure</related>
 		</card>
 		<card>
 			<name>Ecclesia, Interplanar Leech</name>
@@ -1072,7 +1073,7 @@ Whenever Ecclesia enters or you cast a spell from outside your hand, exile the t
 		</card>
 		<card>
 			<name>To Teach Medicine</name>
-			<text>Whenever another creature you control enters, add &quot;You gain 1 life.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)
+			<text>Whenever another creature you control enters, add &quot;You gain 1 life&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)
 Infusion — At the beginning of combat on your turn, if you gained life this turn, target creature gets +X/+X until end of turn, where X is the life gained.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/61.png" num="33">ECB</set>
 			<prop>
@@ -1199,7 +1200,7 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Connection ECB</name>
 			<text>{T}: Add {C}.</text>
-			<set rarity="common" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/68.png" num="18">ECB</set>
+			<set rarity="common" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/68.png" num="19">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1651,7 +1652,7 @@ You gain 2 life.</text>
 		<card>
 			<name>Sudden Rot Begets Wisdom</name>
 			<text>You may sacrifice a permanent. If you do, draw two cards.
-Add &quot;Mill three cards, then create a 1/1 colorless Avatar creature token for each creature card in your graveyard.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+Add &quot;Mill three cards, then create a 1/1 colorless Avatar creature token for each creature card in your graveyard&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/96.png" num="102">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1669,7 +1670,7 @@ Add &quot;Mill three cards, then create a 1/1 colorless Avatar creature token fo
 		</card>
 		<card>
 			<name>Notions of Unending Threat</name>
-			<text>When this enchantment enters, add &quot;Return up to one creature card from your graveyard to the battlefield.&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)
+			<text>When this enchantment enters, add &quot;Return up to one creature card from your graveyard to the battlefield&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)
 Whenever a creature you control enters, this enchantment deals 2 damage to target opponent.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/97.png" num="95">ECB</set>
 			<prop>
@@ -2524,7 +2525,7 @@ Mill three cards, then create a 1/1 colorless Avatar creature token for each cre
 		<card>
 			<name>TRANCE, Stellar Wanderer</name>
 			<text>{2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
-[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[+2]: You may return another permanent you control to its owner&apos;s hand. If you do, draw a card.
 [0]: The next creature spell you cast this turn costs {1} less to cast.
 [-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/147.png" num="34">ECB</set>
@@ -2580,6 +2581,21 @@ As an additional cost to cast this spell, pay one or more additional costs. El I
 				<loyalty>5</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Treasure ECB</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/150.png" num="18">ECB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

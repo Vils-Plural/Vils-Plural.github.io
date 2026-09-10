@@ -1,4 +1,82 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Treasure added.
+
+
+Outwalker Antiquarian
+rules_text: When this creature enters, add “Create three 1/1 colorless Avatar creature tokens.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => When this creature enters, add “Create three 1/1 colorless Avatar creature tokens” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Forefront Inquisitive
+rules_text: Vigilance
+Whenever this creature attacks, add “Draw a card, then discard a card.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => Vigilance
+Whenever this creature attacks, add “Draw a card, then discard a card” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Research Bodyguard
+rules_text: When this creature enters or dies, each opponent loses 2 life and you gain 2 life.
+Whenever another creature dies, add “Each opponent loses 2 life and you gain 2 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => When this creature enters or dies, each opponent loses 2 life and you gain 2 life.
+Whenever another creature dies, add “Each opponent loses 2 life and you gain 2 life” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Gift of a Pulse
+rules_text: When this enchantment enters, draw two cards and you lose 2 life. Add “Up to one Manifestation you control becomes an enchantment creature.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => When this enchantment enters, draw two cards and you lose 2 life. Add “Up to one Manifestation you control becomes an enchantment creature” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Forest's Love Finds Root
+rules_text: Target creature gains hexproof, trample, and reach until end of turn. Put a +1/+1 counter on it.
+Add “Put a hexproof counter on up to one creature you control.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => Target creature gains hexproof, trample, and reach until end of turn. Put a +1/+1 counter on it.
+Add “Put a hexproof counter on up to one creature you control” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Outlands Investigator
+rules_text: Vigilance
+When this creature enters, add “Search your library for a land card, put it onto the battlefield tapped, then shuffle.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => Vigilance
+When this creature enters, add “Search your library for a land card, put it onto the battlefield tapped, then shuffle” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Planned Disturbance
+rules_text: Scry 2. For each card put on the bottom of your library this way, you gain 1 life.
+Draw a card.
+Add “Scry 2, then draw a card.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => Scry 2. For each card put on the bottom of your library this way, you gain 1 life.
+Draw a card.
+Add “Scry 2, then draw a card” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Information Carver
+rules_text: Menace
+Whenever this creature deals combat damage to a player, add “You draw a card and lose 1 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => Menace
+Whenever this creature deals combat damage to a player, add “You draw a card and lose 1 life” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+The Grand Expedition
+
+To Teach Medicine
+rules_text: Whenever another creature you control enters, add “You gain 1 life.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+[i]Infusion[/i] — At the beginning of combat on your turn, if you gained life this turn, target creature gets +X/+X until end of turn, where X is the life gained. => Whenever another creature you control enters, add “You gain 1 life” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+[i]Infusion[/i] — At the beginning of combat on your turn, if you gained life this turn, target creature gets +X/+X until end of turn, where X is the life gained.
+
+Sudden Rot Begets Wisdom
+rules_text: You may sacrifice a permanent. If you do, draw two cards.
+Add “Mill three cards, then create a 1/1 colorless Avatar creature token for each creature card in your graveyard.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => You may sacrifice a permanent. If you do, draw two cards.
+Add “Mill three cards, then create a 1/1 colorless Avatar creature token for each creature card in your graveyard” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Notions of Unending Threat
+rules_text: When this enchantment enters, add “Return up to one creature card from your graveyard to the battlefield.” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+Whenever a creature you control enters, this enchantment deals 2 damage to target opponent. => When this enchantment enters, add “Return up to one creature card from your graveyard to the battlefield” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+Whenever a creature you control enters, this enchantment deals 2 damage to target opponent.
+
+TRANCE, Stellar Wanderer
+rules_text: {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled. => {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to its owner's hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled.
+special_text: {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to your hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled. => {2}, Exile this card from your hand: Draw a card. You may cast TRANCE from exile on a later turn.
+[+2]: You may return another permanent you control to its owner's hand. If you do, draw a card.
+[0]: The next creature spell you cast this turn costs {1} less to cast.
+[-8]: Exile all other nonland permanents. You may cast cards you own exiled this way for as long as they remain exiled.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Madine, Forlorn Perissian added.
