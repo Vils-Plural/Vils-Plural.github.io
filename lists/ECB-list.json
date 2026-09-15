@@ -96,12 +96,12 @@
         "position": "55"
     },
     {
-        "card_name": "Foolish Fate",
+        "card_name": "Form of a Newborn Star",
         "number": 49,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "121"
+        "position": "136"
     },
     {
         "card_name": "Crucible Blaze",
@@ -136,12 +136,12 @@
         "position": "123"
     },
     {
-        "card_name": "Form of a Newborn Star",
+        "card_name": "Gift of a Pulse",
         "number": 50,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "136"
+        "position": "7"
     },
     {
         "card_name": "Decrepit Wings Find No Rest",
@@ -176,12 +176,12 @@
         "position": "65"
     },
     {
-        "card_name": "Gift of a Pulse",
+        "card_name": "Information Carver",
         "number": 51,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "7"
+        "position": "56"
     },
     {
         "card_name": "Ecclesia, Interplanar Leech",
@@ -216,12 +216,12 @@
         "position": "115"
     },
     {
-        "card_name": "Information Carver",
+        "card_name": "Len, Cosmic Emissary",
         "number": 52,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "ECB",
         "rotated": false,
-        "position": "56"
+        "position": "148"
     },
     {
         "card_name": "Full Throttle",
@@ -256,12 +256,12 @@
         "position": "3"
     },
     {
-        "card_name": "Len, Cosmic Emissary",
+        "card_name": "Masterminds Know All",
         "number": 53,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "148"
+        "position": "53"
     },
     {
         "card_name": "Innovation Emissary",
@@ -296,12 +296,12 @@
         "position": "5"
     },
     {
-        "card_name": "Masterminds Know All",
+        "card_name": "Obliteration Emissary",
         "number": 54,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "53"
+        "position": "30"
     },
     {
         "card_name": "Instructor Emissary",
@@ -336,12 +336,12 @@
         "position": "113"
     },
     {
-        "card_name": "Obliteration Emissary",
+        "card_name": "Plunge From Itself",
         "number": 55,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "30"
+        "position": "8"
     },
     {
         "card_name": "Mechanized Origin",
@@ -376,12 +376,12 @@
         "position": "42"
     },
     {
-        "card_name": "Plunge From Itself",
+        "card_name": "Research Bodyguard",
         "number": 56,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "8"
+        "position": "6"
     },
     {
         "card_name": "Notions of Malevolence",
@@ -416,12 +416,12 @@
         "position": "29"
     },
     {
-        "card_name": "Research Bodyguard",
+        "card_name": "So Close Yet So Far",
         "number": 57,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "6"
+        "position": "64"
     },
     {
         "card_name": "Pyroclasm",
@@ -456,12 +456,12 @@
         "position": "100"
     },
     {
-        "card_name": "So Close Yet So Far",
+        "card_name": "Stargaze",
         "number": 58,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "64"
+        "position": "125"
     },
     {
         "card_name": "Redshift",
@@ -491,12 +491,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Stargaze",
+        "card_name": "Ultimate Price",
         "number": 59,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "125"
+        "position": "121"
     },
     {
         "card_name": "e"

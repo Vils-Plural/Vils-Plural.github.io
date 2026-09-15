@@ -5,7 +5,7 @@
 			<name>ECB</name>
 			<longname>Elnyreth: Contact With Those Beyond</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-10</releasedate>
+			<releasedate>2026-09-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -128,7 +128,7 @@ When this creature enters, if {C}{C} was spent to cast it, you may choose a nonc
 			<name>Research Bodyguard</name>
 			<text>When this creature enters or dies, each opponent loses 2 life and you gain 2 life.
 Whenever another creature dies, add &quot;Each opponent loses 2 life and you gain 2 life&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/6.png" num="57">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/6.png" num="56">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -147,7 +147,7 @@ Whenever another creature dies, add &quot;Each opponent loses 2 life and you gai
 		<card>
 			<name>Gift of a Pulse</name>
 			<text>When this enchantment enters, draw two cards and you lose 2 life. Add &quot;Up to one Manifestation you control becomes an enchantment creature&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/7.png" num="51">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/7.png" num="50">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -165,16 +165,19 @@ Whenever another creature dies, add &quot;Each opponent loses 2 life and you gai
 		</card>
 		<card>
 			<name>Plunge From Itself</name>
-			<text>Beyond — As an additional cost to cast this spell, discard a card unless you control three or more enchantments.
-Destroy target creature, planeswalker, or Manifestation.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/8.png" num="56">ECB</set>
+			<text>Kicker {1}{B}
+If this spell was kicked, copy it. (You don&apos;t choose new targets or modes for the copy.)
+Choose one —
+• Target creature gets -2/-2 until end of turn.
+• You draw a card and lose 1 life.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/8.png" num="55">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -319,8 +322,7 @@ Whenever this creature deals combat damage to a player, you may cast a copy of y
 		</card>
 		<card>
 			<name>Outlands Investigator</name>
-			<text>Vigilance
-When this creature enters, add &quot;Search your library for a land card, put it onto the battlefield tapped, then shuffle&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
+			<text>When this creature enters, add &quot;Search your library for a land card, put it onto the battlefield tapped, then shuffle&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/17.png" num="83">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -331,7 +333,7 @@ When this creature enters, add &quot;Search your library for a land card, put it
 				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related count="1">Outlands Research</related>
@@ -374,7 +376,7 @@ Target creature, or planeswalker&apos;s owner puts it on the bottom of their lib
 		</card>
 		<card>
 			<name>Hours to Oblivion</name>
-			<text>If your deck has twenty or fewer cards in it when you cast this spell, copy it. You may choose new targets for the copy.
+			<text>When you cast this spell, if your deck has thirty or fewer cards in it, copy it. You may choose new targets for the copy.
 Exile target artifact, creature, or Manifestation. Its controller loses 2 life.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/20.png" num="91">ECB</set>
 			<prop>
@@ -392,7 +394,9 @@ Exile target artifact, creature, or Manifestation. Its controller loses 2 life.<
 		<card>
 			<name>Experimental Smasher</name>
 			<text>Trample
-When this creature enters, it deals 3 damage divided as you choose among two or three targets.</text>
+When this creature enters, choose one —
+• Experimental Smasher deals 2 damage to target player.
+• Experimental Smasher deals 1 damage to target creature.</text>
 			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/21.png" num="88">ECB</set>
 			<prop>
 				<layout>normal</layout>
@@ -403,7 +407,7 @@ When this creature enters, it deals 3 damage divided as you choose among two or 
 				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -554,7 +558,7 @@ Whenever you cast a colorless nonartifact spell, draw a card.
 			<name>Obliteration Emissary</name>
 			<text>Menace
 When this creature enters, if {C}{C} was spent to cast it, destroy up to one target creature.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/30.png" num="55">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/30.png" num="54">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -740,7 +744,7 @@ The first spell you cast during your turn can&apos;t be countered.</text>
 				<maintype>Enchantment</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<pt>5/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -925,7 +929,7 @@ Each player can&apos;t cast spells that have mana value 1.</text>
 			<name>Masterminds Know All</name>
 			<text>Menace
 Whenever an opponent loses 2 or more life, you may sacrifice this creature. If you do, draw a card and you gain 1 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/53.png" num="54">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/53.png" num="53">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -980,7 +984,7 @@ Flying, ward {2}
 			<name>Information Carver</name>
 			<text>Menace
 Whenever this creature deals combat damage to a player, add &quot;You draw a card and lose 1 life&quot; to your next cast pool of research. (Your pool of research is a {5} sorcery you may cast from exile.)</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/56.png" num="52">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/56.png" num="51">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1131,7 +1135,7 @@ To solve — You control five or more other lands. (If unsolved, solve at the be
 			<text>Flash
 This creature enters with a +1/+1 counter on it for each creature that died this turn.
 When this creature dies, each opponent sacrifices a creature or enchantment they control.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/64.png" num="58">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/64.png" num="57">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2093,17 +2097,16 @@ Choose one. If this spell was kicked, choose any number instead.
 			<related count="1"> Najmat</related>
 		</card>
 		<card>
-			<name>Foolish Fate</name>
-			<text>Destroy target creature.
-Infusion — If you gained life this turn, that creature&apos;s controller loses 3 life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/121.png" num="49">ECB</set>
+			<name>Ultimate Price</name>
+			<text>Destroy target monocolored creature.</text>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/121.png" num="59">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2163,7 +2166,7 @@ Infusion — If you gained life this turn, that creature&apos;s controller loses
 		<card>
 			<name>Stargaze</name>
 			<text>Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest into your graveyard. You lose X life.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/125.png" num="59">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/125.png" num="58">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2344,7 +2347,7 @@ Return target permanent card from your graveyard to your hand.</text>
 		<card>
 			<name>Form of a Newborn Star</name>
 			<text>Choose a card name. Search target opponent&apos;s graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles. You lose 1 life for each card exiled this way.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/136.png" num="50">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/136.png" num="49">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2548,7 +2551,7 @@ Mill three cards, then create a 1/1 colorless Avatar creature token for each cre
 [+2]: Each player mills two cards. You gain 2 life. You may play a card exiled by Len.
 [0]: You may play three cards exiled by Len this turn. For each nonland card played this way, you lose 1 life.
 [-9]: Put each permanent card exiled by Len onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/148.png" num="53">ECB</set>
+			<set rarity="mythic" picurl="https://Vils-Plural.github.io/sets/ECB-files/img/148.png" num="52">ECB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

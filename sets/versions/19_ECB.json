@@ -138,7 +138,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2014 Najmat Soldier",
-            "number": 57,
+            "number": 56,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "When this creature enters or dies, each opponent loses 2 life and you gain 2 life.\nWhenever another creature dies, add \u201cEach opponent loses 2 life and you gain 2 life\u201d to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]",
@@ -159,7 +159,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Enchantment \u2014 Manifestation",
-            "number": 51,
+            "number": 50,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "When this enchantment enters, draw two cards and you lose 2 life. Add \u201cUp to one Manifestation you control becomes an enchantment creature\u201d to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]",
@@ -179,11 +179,11 @@
             "card_name": "Plunge From Itself",
             "color": "B",
             "rarity": "mythic",
-            "type": "Instant",
-            "number": 56,
+            "type": "Sorcery",
+            "number": 55,
             "color_identity": "B",
-            "cost": "{1}{B}",
-            "rules_text": "[i]Beyond[/i] \u2014 As an additional cost to cast this spell, discard a card unless you control three or more enchantments.\nDestroy target creature, planeswalker, or Manifestation.",
+            "cost": "{B}",
+            "rules_text": "Kicker {1}{B}\nIf this spell was kicked, copy it. [i](You don't choose new targets or modes for the copy.)[/i]\nChoose one \u2014\n\u2022 Target creature gets -2/-2 until end of turn.\n\u2022 You draw a card and lose 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -194,7 +194,7 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Final Altar For Dreaming",
@@ -372,9 +372,9 @@
             "number": 83,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Vigilance\nWhen this creature enters, add \u201cSearch your library for a land card, put it onto the battlefield tapped, then shuffle\u201d to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]",
+            "rules_text": "When this creature enters, add \u201cSearch your library for a land card, put it onto the battlefield tapped, then shuffle\u201d to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "ECB",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "!tokens Outlands Research<1>\n!related Outlands Research"
+            "notes": "!tag aggro-threat\n!tokens Outlands Research<1>\n!related Outlands Research"
         },
         {
             "card_name": "Planned Disturbance",
@@ -435,7 +435,7 @@
             "number": 91,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "If your deck has twenty or fewer cards in it when you cast this spell, copy it. You may choose new targets for the copy.\nExile target artifact, creature, or Manifestation. Its controller loses 2 life.",
+            "rules_text": "When you cast this spell, if your deck has thirty or fewer cards in it, copy it. You may choose new targets for the copy.\nExile target artifact, creature, or Manifestation. Its controller loses 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -456,9 +456,9 @@
             "number": 88,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Trample\nWhen this creature enters, it deals 3 damage divided as you choose among two or three targets.",
-            "flavor_text": "[i]\u201cSuch violence... I wonder what \u2018science' truly means to them.\u201d\n\u2014Len, Cosmic Emissary[/i]",
-            "pt": "3/3",
+            "rules_text": "Trample\nWhen this creature enters, choose one \u2014\n\u2022 Experimental Smasher deals 2 damage to target player.\n\u2022 Experimental Smasher deals 1 damage to target creature.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "ECB",
@@ -467,7 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "!tag interactive-threat"
+            "notes": "!tag interactive-threat\n!tag wishlist"
         },
         {
             "card_name": "Unlikely Souls Know Rest",
@@ -642,7 +642,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2014 Avatar Advisor",
-            "number": 55,
+            "number": 54,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Menace\nWhen this creature enters, if {C}{C} was spent to cast it, destroy up to one target creature.",
@@ -677,7 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "!tag aggro-threat"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Dark Fronds Foster Mystery",
@@ -740,7 +740,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "!tag wishlist"
+            "notes": ""
         },
         {
             "card_name": "The Heart of Elnyreth",
@@ -878,7 +878,7 @@
             "cost": "{2}",
             "rules_text": "Whenever this Manifestation enters or attacks, add two mana in any combination of colors. Until end of turn, you don't lose this mana as steps and phases end.\n{2}{C}: If this Manifestation isn't a creature, it becomes an enchantment creature. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
-            "pt": "5/4",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "ECB",
@@ -887,7 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Nerixim, Cursed Stranger",
@@ -1125,7 +1125,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2014 Najmat Avatar Scientist",
-            "number": 54,
+            "number": 53,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Menace\nWhenever an opponent loses 2 or more life, you may sacrifice this creature. If you do, draw a card and you gain 1 life.",
@@ -1188,7 +1188,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2014 Najmat Rogue",
-            "number": 52,
+            "number": 51,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Menace\nWhenever this creature deals combat damage to a player, add \u201cYou draw a card and lose 1 life\u201d to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]",
@@ -1356,7 +1356,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2014 Avatar",
-            "number": 58,
+            "number": 57,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flash\nThis creature enters with a +1/+1 counter on it for each creature that died this turn.\nWhen this creature dies, each opponent sacrifices a creature or enchantment they control.",
@@ -2336,7 +2336,7 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": "!tag story\n!tag wishlist"
+            "notes": "!tag story\n!tag draw"
         },
         {
             "card_name": "VERITY, Collapse Observer",
@@ -2549,14 +2549,14 @@
             "notes": "!tokens Connection<1>; Avatar<1>; Najmat<1>\n!tag story"
         },
         {
-            "card_name": "Foolish Fate",
+            "card_name": "Ultimate Price",
             "color": "B",
             "rarity": "mythic",
             "type": "Instant",
-            "number": 49,
+            "number": 59,
             "color_identity": "B",
-            "cost": "{2}{B}",
-            "rules_text": "Destroy target creature.\n[i]Infusion[/i] \u2014 If you gained life this turn, that creature's controller loses 3 life.",
+            "cost": "{1}{B}",
+            "rules_text": "Destroy target monocolored creature.",
             "flavor_text": "[i]The first embodiments of Elnyreth's love were incomprehensible and hazardous, entities that would spark a planewide hatred.[/i]",
             "pt": "",
             "special_text": "",
@@ -2637,7 +2637,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 59,
+            "number": 58,
             "color_identity": "B",
             "cost": "{X}{B}{B}",
             "rules_text": "Look at twice X cards from the top of your library. Put X cards from among them into your hand and the rest into your graveyard. You lose X life.",
@@ -2868,7 +2868,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 50,
+            "number": 49,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles. You lose 1 life for each card exiled this way.",
@@ -3113,14 +3113,14 @@
             "alias": "",
             "position": "147",
             "rotated": false,
-            "notes": "!tag story\n!tag wishlist"
+            "notes": "!tag story"
         },
         {
             "card_name": "Len, Cosmic Emissary",
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Len",
-            "number": 53,
+            "number": 52,
             "color_identity": "B",
             "cost": "{2}{C}{B}",
             "rules_text": "Whenever one or more cards are put into a graveyard from anywhere, exile them.\n[+2]: Each player mills two cards. You gain 2 life. You may play a card exiled by Len.\n[0]: You may play three cards exiled by Len this turn. For each nonland card played this way, you lose 1 life.\n[-9]: Put each permanent card exiled by Len onto the battlefield.",
@@ -3155,7 +3155,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": "!tag story\n!tag wishlist"
+            "notes": "!tag story"
         },
         {
             "card_name": "Treasure",

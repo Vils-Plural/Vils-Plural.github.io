@@ -1,4 +1,53 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Ultimate Price added.
+
+Foolish Fate removed.
+
+Plunge From Itself
+type: Instant => Sorcery
+cost: {1}{B} => {B}
+rules_text: [i]Beyond[/i] — As an additional cost to cast this spell, discard a card unless you control three or more enchantments.
+Destroy target creature, planeswalker, or Manifestation. => Kicker {1}{B}
+If this spell was kicked, copy it. [i](You don't choose new targets or modes for the copy.)[/i]
+Choose one —
+• Target creature gets -2/-2 until end of turn.
+• You draw a card and lose 1 life.
+
+Outlands Investigator
+rules_text: Vigilance
+When this creature enters, add “Search your library for a land card, put it onto the battlefield tapped, then shuffle” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => When this creature enters, add “Search your library for a land card, put it onto the battlefield tapped, then shuffle” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+pt: 2/1 => 2/2
+
+Hours to Oblivion
+rules_text: If your deck has twenty or fewer cards in it when you cast this spell, copy it. You may choose new targets for the copy.
+Exile target artifact, creature, or Manifestation. Its controller loses 2 life. => When you cast this spell, if your deck has thirty or fewer cards in it, copy it. You may choose new targets for the copy.
+Exile target artifact, creature, or Manifestation. Its controller loses 2 life.
+
+Experimental Smasher
+rules_text: Trample
+When this creature enters, it deals 3 damage divided as you choose among two or three targets. => Trample
+When this creature enters, choose one —
+• Experimental Smasher deals 2 damage to target player.
+• Experimental Smasher deals 1 damage to target creature.
+pt: 3/3 => 3/2
+
+Adorned Deathknell
+
+Beacons of the Unknown
+
+Spring Blooms in Winter Snow
+pt: 5/4 => 3/4
+
+Gazes Back
+
+TRANCE, Stellar Wanderer
+
+El Ior, Planar Whisperer
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Treasure added.
