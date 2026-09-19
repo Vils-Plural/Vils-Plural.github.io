@@ -152,7 +152,7 @@
         "position": "117"
     },
     {
-        "card_name": "El Ior, Planar Whisperer",
+        "card_name": "El, Planar Whisperers",
         "number": 75,
         "shape": "planeswalker",
         "set": "ECB",
@@ -907,12 +907,7 @@
         "position": "9"
     },
     {
-        "card_name": "Pool of Research",
-        "number": 0,
-        "shape": "normal",
-        "set": "ECB",
-        "rotated": false,
-        "position": "94"
+        "card_name": "e"
     },
     {
         "card_name": "e"

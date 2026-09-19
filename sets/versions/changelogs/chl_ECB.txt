@@ -1,4 +1,129 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+El, Planar Whisperers added.
+
+El Ior, Planar Whisperer removed.
+
+Adorned Infiltrator
+
+Research Bodyguard
+rules_text: When this creature enters or dies, each opponent loses 2 life and you gain 2 life.
+Whenever another creature dies, add “Each opponent loses 2 life and you gain 2 life” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i] => When this creature enters, each opponent loses 1 life and you gain 1 life.
+Whenever another creature dies, add “Each opponent loses 2 life and you gain 2 life” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+
+Anomalous Insight
+rules_text: Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom library in any order.
+[i]Beyond[/i] — If you control three or more enchantments, draw a card. => Look at the top six cards of your library. Put two of them into your hand and the rest on the bottom library in any order.
+If you control three or more enchantments, draw a card.
+
+Experimental Smasher
+
+Unlikely Souls Know Rest
+cost: {G}{W} => {G}{G}{W}
+
+Captured Paradox
+cost: {G}{U} => {1}{G}{U}
+rules_text: Whenever you cast a spell, if {C} was spent to cast it, put a +1/+1 counter on this Manifestation and draw a card.
+At the beginning of combat during your turn, if this Manifestation has five or more +1/+1 counters on it and isn't a creature, it becomes an enchantment creature. => Whenever you cast a noncreature spell, if {C} was spent to cast it, put a +1/+1 counter on this Manifestation and draw a card.
+At the beginning of combat during your turn, if this Manifestation has five or more +1/+1 counters on it and isn't a creature, it becomes an enchantment creature.
+
+Elnyreth Loves You
+type: Instant => Sorcery
+rules_text: Search your library for a basic land card or a card that could produce {C}, reveal it, put it into your hand, then shuffle. => Search your library for a basic land card or a land card that could produce {C}, reveal it, put it into your hand, then shuffle.
+
+Nerixim, Cursed Stranger
+rules_text: Flying
+Whenever Nerixim becomes tapped, you may exile a nonland card from your hand. You may cast that card for as long as it remains exiled, and it costs {2} less to cast. => Flying
+Whenever Nerixim becomes tapped, exile a nonland card from your hand face down. You may look at and cast that card for as long as it remains exiled, and it costs {2} less to cast.
+
+Repurpose Nothing
+rules_text: Exile target creature or planeswalker. Its controller creates a 2/2 colorless Manifestation enchantment token with “{2}: This token becomes an enchantment creature.” => Exile target creature with mana value 3 or less. Its controller creates a 2/2 colorless Manifestation enchantment token with “{2}: This token becomes an enchantment creature.”
+
+Conflict Brings Peace
+rules_text: Look at target opponent's hand. You choose a noncreature nonbasic card from it. That player exiles that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.” => Look at target opponent's hand. You choose a noncreature nonland card from it. That player exiles that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+
+Beauty Holds Divine Right
+rules_text: When this Manifestation enters, scry 1. You gain 1 life.
+{2}{C}: Draw two cards. This Manifestation becomes an enchantment creature. Activate only once and only as a sorcery. => When this Manifestation enters, scry 1. You gain 1 life.
+{3}{C}: Draw a card. This Manifestation becomes an enchantment creature. Activate only once and only as a sorcery.
+pt: 4/3 => 4/2
+
+Plans of a Fallen Empire
+rules_text: Flash
+When this Manifestation enters, return up to one permanent you control to your hand.
+When this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's an enchantment creature. => Flash
+When this Manifestation enters, return up to one target permanent you control to your hand.
+When this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's an enchantment creature.
+
+Cosmic Nibbler
+rules_text: This spell can't be countered.
+Flying, ward {2}
+{U}{U}{U}, Discard this card: Scry 2, then draw two cards. => This spell can't be countered.
+Flying, ward {2}
+{U}{U}{U}, Discard this card: Scry 1, then draw two cards. Activate only as a sorcery.
+
+The Grand Expedition
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a Treasure token and a 1/1 colorless Avatar creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a tapped Treasure token and a tapped 1/1 colorless Avatar creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a Treasure token and a 1/1 colorless Avatar creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “{T}: Add {C}.” and “{1}, {T}: Add one mana of any color.”
+II — This Saga gains “{2}, {T}: Draw a card. Activate only as a sorcery.”
+III — Create a tapped Treasure token and a tapped 1/1 colorless Avatar creature token.
+
+So Close Yet So Far
+rules_text: Flash
+This creature enters with a +1/+1 counter on it for each creature that died this turn.
+When this creature dies, each opponent sacrifices a creature or enchantment they control. => Flash
+This creature enters with a +1/+1 counter on it for each creature that died this turn.
+When this creature dies, each opponent sacrifices a creature or enchantment of their choice.
+
+Erosion May Break You
+cost: {1}{G} => {2}{G}
+
+Pool of Research
+rules_text: [i](You may cast copies of this spell from exile during your turn if you have applied an effect to your next cast pool of research this game.)[/i] => [i](This is not a card. You may cast copies of this spell from exile during your turn if you have applied an effect to your next cast pool of research this game.)[/i]
+
+Notions of Unending Threat
+rules_text: When this enchantment enters, add “Return up to one creature card from your graveyard to the battlefield” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+Whenever a creature you control enters, this enchantment deals 2 damage to target opponent. => When this enchantment enters, add “Return up to one creature card from your graveyard to the battlefield” to your next cast pool of research. [i](Your pool of research is a {5} sorcery you may cast from exile.)[/i]
+Whenever a creature you control enters, this enchantment deals 1 damage to target opponent.
+
+Channel the Lightless Sun
+rules_text: Lifelink
+Channel the Lightless Sun deals X plus 2 damage to any target that's tapped or isn't a creature. => Channel the Lightless Sun deals X plus 2 damage to any target that's tapped or isn't a creature and you gain that much life.
+
+Incendiary Passion Burns Gold
+rules_text: When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for {R}{R}. Exile this creature at the beginning of the next end step. You may cast it from exile on a later turn.)[/i] => When this creature enters, exile target nonbasic land or artifact. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Warp {R}{R} [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]
+
+Len, Cosmic Emissary
+rules_text: Whenever one or more cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills two cards. You gain 2 life. You may play a card exiled by Len.
+[0]: You may play three cards exiled by Len this turn. For each nonland card played this way, you lose 1 life.
+[-9]: Put each permanent card exiled by Len onto the battlefield. => Whenever one or more permanent cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills two cards. You may play a card exiled by Len.
+[-1]: You may play two permanent cards exiled by Len this turn. For each nonland card played this way, you lose 2 life.
+[-9]: Put each permanent card exiled by Len onto the battlefield.
+special_text: Whenever one or more cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills two cards. You gain 2 life. You may play a card exiled by Len.
+[0]: You may play three cards exiled by Len this turn. For each nonland card played this way, you lose 1 life.
+[-9]: Put each permanent card exiled by Len onto the battlefield. => Whenever one or more permanent cards are put into a graveyard from anywhere, exile them.
+[+2]: Each player mills two cards. You may play a card exiled by Len.
+[-1]: You may play two permanent cards exiled by Len this turn. For each nonland card played this way, you lose 2 life.
+[-9]: Put each permanent card exiled by Len onto the battlefield.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Ultimate Price added.
