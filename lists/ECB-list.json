@@ -40,12 +40,12 @@
         "position": "101"
     },
     {
-        "card_name": "Burn from Within",
+        "card_name": "Dawn of Hope",
         "number": 23,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "49"
+        "position": "124"
     },
     {
         "card_name": "Anomalous Insight",
@@ -80,12 +80,12 @@
         "position": "32"
     },
     {
-        "card_name": "Dawn of Hope",
+        "card_name": "Day of Judgment",
         "number": 24,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "124"
+        "position": "114"
     },
     {
         "card_name": "Cosmic Nibbler",
@@ -120,12 +120,12 @@
         "position": "127"
     },
     {
-        "card_name": "Day of Judgment",
+        "card_name": "Deepdive Outwalker",
         "number": 25,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "114"
+        "position": "0"
     },
     {
         "card_name": "Cryogen Relic",
@@ -160,12 +160,12 @@
         "position": "149"
     },
     {
-        "card_name": "Deepdive Outwalker",
+        "card_name": "Disaster Stabilization",
         "number": 26,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "0"
+        "position": "102"
     },
     {
         "card_name": "Elementary Interception",
@@ -200,12 +200,12 @@
         "position": "67"
     },
     {
-        "card_name": "Disaster Stabilization",
+        "card_name": "Ignite from Within",
         "number": 27,
         "shape": "normal",
         "set": "ECB",
         "rotated": false,
-        "position": "102"
+        "position": "49"
     },
     {
         "card_name": "Fading Hope",

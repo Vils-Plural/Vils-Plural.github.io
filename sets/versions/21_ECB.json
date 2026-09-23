@@ -12,7 +12,7 @@
             "color": "W",
             "rarity": "mythic",
             "type": "Creature \u2014 Najmat Soldier",
-            "number": 26,
+            "number": 25,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Vigilance\nAs this creature enters, target opponent reveals their hand, then choose any card name.\nSpells of the chosen name cost {2} more to cast.",
@@ -68,7 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "!tokens Avatar<3>; Outwalker Research<1>\n!related Outwalker Research"
+            "notes": "!tokens Pool of Research<1>; Avatar<3>; Outwalker Research<1>;\n!related Outwalker Research"
         },
         {
             "card_name": "Forefront Inquisitive",
@@ -89,7 +89,7 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "!tokens Forefront Research<1>\n!related Forefront Research"
+            "notes": "!tokens Pool of Research<1>; Forefront Research<1>\n!related Forefront Research"
         },
         {
             "card_name": "Knowledge Emissary",
@@ -152,7 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "!tokens Bodyguard Research<1>\n!related Bodyguard Research"
+            "notes": "!tokens Pool of Research<1>; Bodyguard Research<1>\n!related Bodyguard Research"
         },
         {
             "card_name": "Gift of a Pulse",
@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "!tokens Pulse Research<1>\n!related Pulse Research"
+            "notes": "!tokens Pool of Research<1>; Pulse Research<1>\n!related Pulse Research"
         },
         {
             "card_name": "Plunge From Itself",
@@ -341,7 +341,7 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "!tokens Forest's Love Research<1>\n!related Forest's Love Research"
+            "notes": "!tokens Pool of Research<1>; Forest's Love Research<1>\n!related Forest's Love Research"
         },
         {
             "card_name": "Expansion Emissary",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "!tag aggro-threat\n!tokens Outlands Research<1>\n!related Outlands Research"
+            "notes": "!tag aggro-threat\n!tokens Pool of Research<1>; Outlands Research<1>\n!related Outlands Research"
         },
         {
             "card_name": "Planned Disturbance",
@@ -404,7 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "!tag cantrip"
+            "notes": "!tokens Pool of Research<1>; Disturbance Research<1>\n!tag cantrip"
         },
         {
             "card_name": "Scintillate Away",
@@ -414,7 +414,7 @@
             "number": 101,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "This spell can't be countered.\nTarget creature, or planeswalker's owner puts it on the bottom of their library.",
+            "rules_text": "This spell can't be countered.\nTarget creature or planeswalker's owner puts it on the bottom of their library.",
             "flavor_text": "[i]Shatter the core, crumble the self.[/i]",
             "pt": "",
             "special_text": "",
@@ -981,7 +981,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "{C}",
-            "rules_text": "Look at target opponent's hand. You choose a noncreature nonland card from it. That player exiles that card and creates a tapped colorless basic land token named Connection with \u201c{T}: Add {C}.\u201d",
+            "rules_text": "Look at target opponent's hand. You choose a noncreature nonland card from it. That player exiles that card and creates a tapped basic land token named Connection with \u201c{T}: Add {C}.\u201d",
             "flavor_text": "[i].--. .-.. . .- ... . / .-.. .. ... - . -. / - --- / -- .[/i]",
             "pt": "",
             "special_text": "",
@@ -1037,11 +1037,11 @@
             "notes": ""
         },
         {
-            "card_name": "Burn from Within",
+            "card_name": "Ignite from Within",
             "color": "W",
             "rarity": "mythic",
             "type": "Instant",
-            "number": 23,
+            "number": 27,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Destroy target enchantment with mana value 2 or less. If it had mana value 0, you gain 2 life.",
@@ -1065,7 +1065,7 @@
             "number": 17,
             "color_identity": "C",
             "cost": "{C}",
-            "rules_text": "Flash\nWhen this Manifestation enters, return up to one target permanent you control to your hand.\nWhen this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's an enchantment creature.",
+            "rules_text": "Flash\nWhen this Manifestation enters, return up to one target permanent you control to its owner's hand.\nWhen this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's an enchantment creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "!tokens Carver Research<1>\n!related Carver Research\n!tag value-threat"
+            "notes": "!tokens Pool of Research<1>; Carver Research<1>\n!related Carver Research\n!tag value-threat"
         },
         {
             "card_name": "Innovation Emissary",
@@ -1307,7 +1307,7 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "!tokens Medicine Research<1>\n!related Medicine Research"
+            "notes": "!tokens Pool of Research<1>; Medicine Research<1>\n!related Medicine Research"
         },
         {
             "card_name": "Finding the First Emissary",
@@ -1440,7 +1440,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Basic Land",
-            "number": 19,
+            "number": 20,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.",
@@ -1881,7 +1881,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token \u2014 Research",
-            "number": 11,
+            "number": 12,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Apply this effect to your next cast pool of research.)[/i]\nUp to one Manifestation you control becomes an enchantment creature.",
@@ -1986,14 +1986,14 @@
             "color": "",
             "rarity": "special",
             "type": "Token Sorcery",
-            "number": 0,
+            "number": 11,
             "color_identity": "C",
             "cost": "{5}",
             "rules_text": "[i](This is not a card. You may cast copies of this spell from exile during your turn if you have applied an effect to your next cast pool of research this game.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "ECB",
             "loyalty": "",
             "artist": "Ben Mauro",
@@ -2042,7 +2042,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "!tokens Sudden Rot Begets Wisdom<1>; Avatar<X>"
+            "notes": "!tokens Pool of Research<1>; Sudden Rot Begets Wisdom<1>; Avatar<X>"
         },
         {
             "card_name": "Notions of Unending Threat",
@@ -2063,14 +2063,14 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "!tokens Unending Research<1>\n!related Unending Research\n!tag<cycle> notion\n!tag mana-cheating"
+            "notes": "!tokens Pool of Research<1>; Unending Research<1>\n!related Unending Research\n!tag<cycle> notion\n!tag mana-cheating"
         },
         {
             "card_name": "Illusion",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Illusion",
-            "number": 16,
+            "number": 17,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2154,7 +2154,7 @@
             "color": "W",
             "rarity": "mythic",
             "type": "Instant",
-            "number": 27,
+            "number": 26,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Target permanent you control gains your choice of hexproof or indestructible until end of turn.\n[i]Infusion[/i] \u2014 If you gained life this turn, draw a card.",
@@ -2220,7 +2220,7 @@
             "number": 93,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "When this creature enters, create a tapped colorless basic land token named Connection with \u201c{T}: Add {C}.\u201d\nAt the beginning of your end step, untap up to three lands you control.",
+            "rules_text": "When this creature enters, create a tapped basic land token named Connection with \u201c{T}: Add {C}.\u201d\nAt the beginning of your end step, untap up to three lands you control.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2364,12 +2364,12 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Angel",
-            "number": 14,
+            "number": 15,
             "color_identity": "W",
             "cost": "",
             "rules_text": "Flying, first strike, vigilance, lifelink",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "3/3",
             "special_text": "",
             "shape": "token",
             "set": "ECB",
@@ -2406,7 +2406,7 @@
             "color": "W",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 25,
+            "number": 24,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
             "rules_text": "Destroy all creatures.",
@@ -2535,7 +2535,7 @@
             "number": 81,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "At the beginning of your upkeep, create a tapped colorless basic land token named Connection with \u201c{T}: Add {C}.\u201d\n{7}{C}: Create a 1/1 colorless Avatar creature token and a 4/2 Najmat creature token that's all colors. Activate only as a sorcery.",
+            "rules_text": "At the beginning of your upkeep, create a tapped basic land token named Connection with \u201c{T}: Add {C}.\u201d\n{7}{C}: Create a 1/1 colorless Avatar creature token and a 4/2 Najmat creature token that's all colors. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2616,7 +2616,7 @@
             "color": "W",
             "rarity": "mythic",
             "type": "Enchantment",
-            "number": 24,
+            "number": 23,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Whenever you gain life, you may pay {2}. If you do, draw a card.\n{3}{W}: Create a 1/1 white Soldier creature token with lifelink.",
@@ -2700,7 +2700,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Najmat",
-            "number": 17,
+            "number": 18,
             "color_identity": "WUBRG",
             "cost": "",
             "rules_text": "This token is all colors.",
@@ -2829,9 +2829,9 @@
             "number": 7,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{3}: This token becomes an enchantment creature.",
+            "rules_text": "{2}: This token becomes an enchantment creature.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/2",
             "special_text": "",
             "shape": "token",
             "set": "ECB",
@@ -2910,7 +2910,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token \u2014 Research",
-            "number": 13,
+            "number": 14,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Apply this effect to your next cast pool of research.)[/i]\nReturn up to one creature card from your graveyard to the battlefield.",
@@ -2931,7 +2931,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token \u2014 Research",
-            "number": 12,
+            "number": 13,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[i](Apply this effect to your next cast pool of research.)[/i]\nMill three cards, then create a 1/1 colorless Avatar creature token for each creature card in your graveyard.",
@@ -2952,7 +2952,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier",
-            "number": 15,
+            "number": 16,
             "color_identity": "W",
             "cost": "",
             "rules_text": "Lifelink",
@@ -3162,7 +3162,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 18,
+            "number": 19,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",

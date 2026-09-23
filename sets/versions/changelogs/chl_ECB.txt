@@ -1,4 +1,68 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Ignite from Within added.
+
+Burn from Within removed.
+
+Outwalker Antiquarian
+
+Forefront Inquisitive
+
+Research Bodyguard
+
+Gift of a Pulse
+
+Forest's Love Finds Root
+
+Outlands Investigator
+
+Planned Disturbance
+
+Scintillate Away
+rules_text: This spell can't be countered.
+Target creature, or planeswalker's owner puts it on the bottom of their library. => This spell can't be countered.
+Target creature or planeswalker's owner puts it on the bottom of their library.
+
+Conflict Brings Peace
+rules_text: Look at target opponent's hand. You choose a noncreature nonland card from it. That player exiles that card and creates a tapped colorless basic land token named Connection with “{T}: Add {C}.” => Look at target opponent's hand. You choose a noncreature nonland card from it. That player exiles that card and creates a tapped basic land token named Connection with “{T}: Add {C}.”
+
+Plans of a Fallen Empire
+rules_text: Flash
+When this Manifestation enters, return up to one target permanent you control to your hand.
+When this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's an enchantment creature. => Flash
+When this Manifestation enters, return up to one target permanent you control to its owner's hand.
+When this Manifestation dies, if it isn't a creature, return it to the battlefield under its owner's control. It's an enchantment creature.
+
+Information Carver
+
+To Teach Medicine
+
+Pool of Research
+
+Sudden Rot Begets Wisdom
+
+Notions of Unending Threat
+
+Laboratory Overseer
+rules_text: When this creature enters, create a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+At the beginning of your end step, untap up to three lands you control. => When this creature enters, create a tapped basic land token named Connection with “{T}: Add {C}.”
+At the beginning of your end step, untap up to three lands you control.
+
+Angel
+pt:  => 3/3
+
+A New Beginning
+rules_text: At the beginning of your upkeep, create a tapped colorless basic land token named Connection with “{T}: Add {C}.”
+{7}{C}: Create a 1/1 colorless Avatar creature token and a 4/2 Najmat creature token that's all colors. Activate only as a sorcery. => At the beginning of your upkeep, create a tapped basic land token named Connection with “{T}: Add {C}.”
+{7}{C}: Create a 1/1 colorless Avatar creature token and a 4/2 Najmat creature token that's all colors. Activate only as a sorcery.
+
+Manifestation
+rules_text: {3}: This token becomes an enchantment creature. => {2}: This token becomes an enchantment creature.
+pt:  => 2/2
+
+
+VERSION 20 CHANGELOG
 ====================
 
 El, Planar Whisperers added.
